@@ -44,7 +44,10 @@ I currently pursuaded my graduate degree in Electrical and Computer Science from
 ###### Jul 2016 - Apr 2020, Tamil Nadu, India <br>
 
 ------
+I completed my Undergraduate Degree in Electronics and Communication Engineering from the Amrita College of Engineering in 2020. 
 
+**CGPA:** 7.20/10 
+**Relevant coursework:** Optimization Techniques, Operations Research, Computational Thinking and Problem Solving, Computer Programming, Calculus and Matrix Algebra, Vector Calculus and Ordinary Differential Equations, Linear Algebra, Probability and Random Processes  
 
 
 Experience
