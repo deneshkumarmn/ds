@@ -17,9 +17,14 @@ Oh, and also, I’m a HUGE cricket fan also I love white water kayaking and Ice 
 
 Education
 ======
-<img align="left" width="130" height="130" src="https://images/pennstate">
-**Master of Science (MS) in Electrical and Computer Engineering**[Pennsylvania State University](https://www.psu.edu/)
-Aug 2021 - May 2023 | University Park, USA
+<img align="left" width="130" height="130" src="https://github.com/deneshkumarmn/ds/blob/master/images/pennstate.png">
+## **Master of Science (MS) in Electrical and Computer Engineering** [Pennsylvania State University](https://www.psu.edu/) <br>
+
+####Aug 2021 - May 2023 | University Park, USA
+
+
+
+Experience
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
