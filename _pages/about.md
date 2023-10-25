@@ -46,18 +46,29 @@ I currently pursuaded my graduate degree in Electrical and Computer Science from
 ------
 I completed my Undergraduate Degree in Electronics and Communication Engineering from the Amrita College of Engineering in 2020. 
 
-**CGPA:** 7.20/10 
+**CGPA:** 7.20/10 <br>
 **Relevant coursework:** Optimization Techniques, Operations Research, Computational Thinking and Problem Solving, Computer Programming, Calculus and Matrix Algebra, Vector Calculus and Ordinary Differential Equations, Linear Algebra, Probability and Random Processes  
 
 
 Experience
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+
+------
+<img align="left" width="130" height="130" src="http://deneshkumarmn.github.io/ds/images/onebit.png">
+### Data Scientist [ONEBIT](https://onebitapp.com/) <br>
+###### June 2023 - Nov 2023, Chicago, US <br>
+------
+
+- Implemented AWS Glue for automated data ingestion, transformation, and ETL (Extract, Transform, Load) processes, ensuring efficient data processing and integration from various sources, including bank transactions, invoices, and
+expense receipts from S3 bucket.
+- Utilized AWS warehouse for storing and managing large volumes of financial data from various sources such as bank
+transactions, invoices, and expense receipts. Utilizing its cloud-native architecture and elastic scalability to efficiently
+store, organize, and analyze financial data.
+- Leveraged AWS Lambda to develop real-time data integration solutions, securely connecting with financial institution’s
+APIs and extracting transactional data on-the-fly, guaranteeing accurate and up-to-date financial information.
+- Employed AWS CloudFormation to automate the infrastructure provisioning process, enabling repeatable and consistent
+deployments of data pipelines, and ensuring easy scalability and manageability.
+
 
 Site-wide configuration
 ------
