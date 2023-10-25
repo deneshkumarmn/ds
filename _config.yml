@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Denesh Kumar Manoharan"
+title                    : "Denesh Kumar"
 title_separator          : "-"
-name                     : &name "Denesh Kumar Manoharan"
+name                     : &name "Denesh Kumar"
 description              : &description "Data Scientist"
 url                      : "https://deneshkumarmn.github.io/ds/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Denesh Kumar"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Denesh Kumar Manoharan"
+  avatar           : "dk.png"
+  bio              : "Data Scientist - Data Analyst - Machine Learning Engineer"
+  location         : "State College, Pennsylvania"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "deneshkumar.mn@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/deneshkumar-m/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
