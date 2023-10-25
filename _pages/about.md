@@ -49,12 +49,13 @@ I completed my Undergraduate Degree in Electronics and Communication Engineering
 **CGPA:** 7.20/10 <br>
 **Relevant coursework:** Optimization Techniques, Operations Research, Computational Thinking and Problem Solving, Computer Programming, Calculus and Matrix Algebra, Vector Calculus and Ordinary Differential Equations, Linear Algebra, Probability and Random Processes  
 
+<br>
 
 Experience
 ======
 
 ------
-<img align="left" width="130" height="130" src="http://deneshkumarmn.github.io/ds/images/onebit.png">
+<img align="left" width="100" height="100" src="http://deneshkumarmn.github.io/ds/images/onebit.png">
 ### Data Scientist [ONEBIT](https://onebitapp.com/) <br>
 ###### June 2023 - Nov 2023, Chicago, US <br>
 ------
