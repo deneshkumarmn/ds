@@ -98,7 +98,8 @@ at classification for classifying commercial crops and peripheral habitats on fa
 Key Skills
 ======
 - **Programming Languages:** Python, R, Scala, C, C++
-- **Libraries:** PyTorch, Tensorflow, Keras, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Statsmodel, NLTK, ggplot - - **Databases:** MySQL, PostreSQL, MongoDB, SAS
+- **Libraries:** PyTorch, Tensorflow, Keras, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Statsmodel, NLTK, ggplot
+- **Databases:** MySQL, PostreSQL, MongoDB, SAS
 - **Visualization Tools:** Tableau, PowerBI, QlikView
 - **Modeling:** Linear Regression, Logistic Regression, SVM, Decision Trees, Random Forests, Bagging, Boosting, K-means, KNN, Latent Dirichlet Allocation, Lasso Regression, Ridge Regression, Naive Bayes, Deep Neural Networks, Convolutional Neural Networks, ARIMA, SARIMA
 - **Tools:** AWS - Redshift, Lambda, SageMaker, Glue, EC2, S3, Azure Databricks, Jira, Git, MS Excel
