@@ -17,11 +17,10 @@ Oh, and also, I’m a HUGE cricket fan also I love white water kayaking and Ice 
 
 Education
 ======
-<img align="left" width="130" height="130" src="https://github.com/deneshkumarmn/ds/blob/master/images/pennstate.png">
+<img align="left" width="100" height="100" src="https://images/pennstate.png">
 ### Master of Science (MS) in Electrical and Computer Engineering
 [Pennsylvania State University](https://www.psu.edu/) <br>
-
-####Aug 2021 - May 2023|University Park, USA
+#### Aug 2021 - May 2023, University Park, USA
 
 
 
