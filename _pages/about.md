@@ -29,10 +29,10 @@ I currently pursuaded my graduate degree in Electrical and Computer Science from
 **CGPA:** 3.82/4.0 <br>
 **Relevant coursework:**
 
-**Fall ‘21:** Computer vision, Image Processing 
-**Spring ‘22:** Pattern Recognition and Machine Learning, Machine Learning and AI, Advanced Computer Vision 2 
-**Fall ‘22:** Data Analytics, Data Mining, Fairness Incentives in Mechanism Design 
-**Spring ‘23:** Big Data Analytics
+- **Fall ‘21:** Computer vision, Image Processing 
+- **Spring ‘22:** Pattern Recognition and Machine Learning, Machine Learning and AI, Advanced Computer Vision 2 
+- **Fall ‘22:** Data Analytics, Data Mining, Fairness Incentives in Mechanism Design 
+- **Spring ‘23:** Big Data Analytics
 
 
 
