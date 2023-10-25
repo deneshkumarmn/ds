@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hey, thanks for visiting my website. I’m Denesh - a recent (2023) graduate from the Pennsylvania State University. Data Scientist with two year of experience executing data-driven solution to increase efficiency, accuracy, and utility of internal data processing. Experienced at creating data regression models, and using predictive data modeling to deliver insights and implement action-oriented solution to complex industrial problems.
+
+I hold a Master's degree in Data Science and stay committed to continuous learning, staying updated with the latest trends in AI and data science. I’m super enthusiastic about learning new technologies and how these can be best used in my job! I often gravitate towards project making me think out of the box and am always up for any new and exciting opportunities coming my way.
+
+Oh, and also, I’m a HUGE cricket fan also I love white water kayaking and Ice climbing. I have recently summit mount Algonquin Peak (Second largest peak in east cost). Hit me up if you want to talk sports, adventure, machine learning, data science, or anything fun in life! :) 
+
 
 A data-driven personal website
 ======
