@@ -71,8 +71,8 @@ deployments of data pipelines, and ensuring easy scalability and manageability.
 
 ------
 <img align="left" width="110" height="140" src="http://deneshkumarmn.github.io/ds/images/omdena.png">
-### Data Scientist [Omdena](https://onebitapp.com/) <br>
-###### June 2023 - Nov 2023, Chicago, US <br>
+### Data Scientist [Omdena](https://omdena.com/) <br>
+###### May 2022 - Sep 2022, Remote, US <br>
 ------
 - Collected data from various sources such as REST API, MySQL server and stored it in AWS S3 Data Lake.
 - Built ETL pipeline with the help of AWS Glue and used AWS EC2 to cleanse, mask and transform raw data into the
@@ -83,3 +83,14 @@ business profit by 18%.
 found out that XGBoost Algorithm performed the best.
 - F1 score was the metric used to evaluate the algorithm performance and the project was deployed using Streamlit
 framework
+
+------
+<img align="left" width="110" height="140" src="http://deneshkumarmn.github.io/ds/images/omdena.png">
+### Data Scientist [Omdena](https://omdena.com/) <br>
+###### Feb 2021 - July 2021, Remote, US <br>
+------
+- Used QGIS software to perform in-depth analysis and processing of Sentinel 2 data.
+- Stored all the raw data in AWS S3 and after transformation shifted the data into AWS Redshift for different use
+cases.Created datasets in image format and csv format.
+- Built Machine Learning models using the csv format and Computer Vision models using image format for farming habit
+at classification for classifying commercial crops and peripheral habitats on farm that can be used by food industry bodies to contextualize on-farm data that is self-reported by farmers.
