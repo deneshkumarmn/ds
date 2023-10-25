@@ -36,8 +36,8 @@ I currently pursuaded my graduate degree in Electrical and Computer Science from
 <br>
 
 ------
-<br>
-<img align="left" width="100" height="100" src="http://deneshkumarmn.github.io/ds/images/amrita.png">
+
+<img align="left" width="100" height="140" src="http://deneshkumarmn.github.io/ds/images/amrita.png">
 ### Batchelor of Technology (B.Tech) in Electronics and Communication Engineering [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/) <br>
 ###### Jul 2016 - Apr 2020, Tamil Nadu, India <br>
 
