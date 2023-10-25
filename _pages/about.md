@@ -94,3 +94,12 @@ framework
 cases.Created datasets in image format and csv format.
 - Built Machine Learning models using the csv format and Computer Vision models using image format for farming habit
 at classification for classifying commercial crops and peripheral habitats on farm that can be used by food industry bodies to contextualize on-farm data that is self-reported by farmers.
+
+Key Skills
+======
+- **Programming Languages:** Python, R, Scala, C, C++
+- **Libraries:** PyTorch, Tensorflow, Keras, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Statsmodel, NLTK, ggplot - - **Databases:** MySQL, PostreSQL, MongoDB, SAS
+- **Visualization Tools:** Tableau, PowerBI, QlikView
+- **Modeling:** Linear Regression, Logistic Regression, SVM, Decision Trees, Random Forests, Bagging, Boosting, K-means, KNN, Latent Dirichlet Allocation, Lasso Regression, Ridge Regression, Naive Bayes, Deep Neural Networks, Convolutional Neural Networks, ARIMA, SARIMA
+- **Tools:** AWS - Redshift, Lambda, SageMaker, Glue, EC2, S3, Azure Databricks, Jira, Git, MS Excel
+- **Deployment:** Heroku, Streamlit, Tensorflow ext
