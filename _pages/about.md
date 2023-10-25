@@ -21,17 +21,18 @@ Education
 <img align="left" width="130" height="130" src="http://deneshkumarmn.github.io/ds/images/pennstate.png">
 ### Master of Science (MS) in Electrical and Computer Engineering [Pennsylvania State University](https://www.psu.edu/) <br> 
 ###### Aug 2021 - May 2023, University Park, USA <br>
+
 ------
 
 I currently pursuaded my graduate degree in Electrical and Computer Science from the Pennsylvania State University with a focus in Data Science and Machine Learning. <br>
 
-**CGPA:** 3.82/4.0 
+**CGPA:** 3.82/4.0 <br>
 **Relevant coursework:**
 
-Fall ‘20: Statistics, Advanced Databases 
-Spring ‘20: Scaling and Applications in Data Science, Business Intelligence Systems, Research and Analysis for Information Management Professionals 
-Winter ‘20: Machine Learning and Econometrics, Relational Database Management Systems 
-Fall ‘19: Foundations of Data Science
+**Fall ‘21:** Computer vision, Image Processing 
+**Spring ‘22:** Pattern Recognition and Machine Learning, Machine Learning and AI, Advanced Computer Vision 2 
+**Fall ‘22:** Data Analytics, Data Mining, Fairness Incentives in Mechanism Design 
+**Spring ‘23:** Big Data Analytics
 
 
 
