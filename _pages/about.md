@@ -19,7 +19,8 @@ Education
 ======
 
 <img align="left" width="130" height="130" src="http://deneshkumarmn.github.io/ds/images/pennstate.png">
-### Master of Science (MS) in Electrical and Computer Engineering [Pennsylvania State University](https://www.psu.edu/) <br> __Aug 2021 - May 2023, University Park, USA__
+### Master of Science (MS) in Electrical and Computer Engineering [Pennsylvania State University](https://www.psu.edu/) <br> 
+######Aug 2021 - May 2023, University Park, USA <br>######
 
 
 
