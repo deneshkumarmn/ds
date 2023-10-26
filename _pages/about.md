@@ -82,8 +82,16 @@ business profit by 18%.
 - Used clustering models to cluster into several groups. Used several Machine Learning Algorithms for each cluster and
 found out that XGBoost Algorithm performed the best.
 - F1 score was the metric used to evaluate the algorithm performance and the project was deployed using Streamlit
-framework
-
+framework.
+------
+<img align="left" width="110" height="140" src="http://deneshkumarmn.github.io/ds/images/omdena.png">
+### Data Aanlyst [Omdena](https://omdena.com/) <br>
+###### Feb 2022 - July 2022, Remote, US <br>
+------
+- Used MySQL Database for data storage and built KPI dashboard in Power BI to perform in-depth analysis of Clients revenue insights.
+- Helped in regaining their market share and revenue by 15% in the next quarter.
+- Used Machine Learning to forecast the revenue insights of the company.
+- Used Feature Engineering to improve the adjusted R-Squared Score from 0.72 to 0.87.
 ------
 <img align="left" width="110" height="140" src="http://deneshkumarmn.github.io/ds/images/omdena.png">
 ### Data Scientist [Omdena](https://omdena.com/) <br>
