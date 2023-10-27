@@ -2,7 +2,7 @@
 title: "Graduate Teaching Assistant - Design Tool"
 collection: teaching
 #type: "Workshop"
-#permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2015-spring-teaching-1
 #venue: "University 1, Department"
 date: Spring 2023
 #location: "City, Country"
