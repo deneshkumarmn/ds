@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Rectangular Microstrip Patch Antenna Miniaturization using improvised Genetic Algorithm"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+date: 2020-06-17
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'D. M. K., G. S., D. K. M., S. M. and M. V., "Rectangular Microstrip Patch Antenna Miniaturization using improvised Genetic Algorithm," 2020 4th International Conference on Trends in Electronics and Informatics (ICOEI)(48184), Tirunelveli, India, 2020, pp. 894-898, doi: 10.1109/ICOEI48184.2020.9142912.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper presents the antenna miniaturization at 2.4 GHz (desired frequency) using genetic algorithm. The microstrip patch antenna resonating at higher frequency is designed conventionally and the structure of the rectangular patch is modified through the algorithm in order to shift the resonant frequency while keeping the physical volume of the antenna constant. Genetic Algorithm has been used to shift the resonance frequency, but the resultant frequency is always random. Here the resultant frequency (2.4 GHz) is fixed with the help of a proper fitness function. Genetic algorithm was applied on patch surface of conventional 3 GHz and 4 GHz antennas and the rate of miniaturization is 24.4% and 45.8% respectively.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
