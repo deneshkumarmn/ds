@@ -2,9 +2,9 @@
 title: "Rectangular Microstrip Patch Antenna Miniaturization using improvised Genetic Algorithm"
 collection: publications
 #permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2020-06-17
-#venue: 'Journal 1'
+venue: 'IEEE'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 #citation: 'D. M. K., G. S., D. K. M., S. M. and M. V., "Rectangular Microstrip Patch Antenna Miniaturization using improvised Genetic Algorithm," 2020 4th International Conference on Trends in Electronics and Informatics (ICOEI)(48184), Tirunelveli, India, 2020, pp. 894-898, doi: 10.1109/ICOEI48184.2020.9142912.'
 ---
