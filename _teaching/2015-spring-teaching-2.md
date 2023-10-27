@@ -1,11 +1,11 @@
 ---
 title: "Graduate Teaching Assistant - Design Tool"
 collection: teaching
-#type: "Workshop"
+type: ""
 permalink: /teaching/2015-spring-teaching-1
-#venue: "University 1, Department"
+venue: ""
 date: Spring 2023
-#location: "City, Country"
+location: ""
 ---
 
 - I had the opportunity to present 30 lab sessions to undergraduate students. These labs were designed to introduce students to various concepts and tools in the field of electrical engineering, including Labview software, building and connecting circuits to Labview software and processing data using Mydaq and CRIO devices, and Microcontroller programming using MPLAB X software.
