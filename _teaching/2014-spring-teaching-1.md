@@ -9,6 +9,6 @@ location: "City, Country"
 ---
 
 - Responsible for assisting the professor in designing and implementing course curriculum
-- Presented 15 lab to undergraduate students in digital design
+- Presented 16 lab to undergraduate students in digital design
 - Conducting lectures and grading assignments and exams
 - Providing guidance and support to undergraduate students in the field of digital design
