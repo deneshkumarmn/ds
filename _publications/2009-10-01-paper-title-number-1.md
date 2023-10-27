@@ -11,4 +11,3 @@ paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 This paper presents the antenna miniaturization at 2.4 GHz (desired frequency) using genetic algorithm. The microstrip patch antenna resonating at higher frequency is designed conventionally and the structure of the rectangular patch is modified through the algorithm in order to shift the resonant frequency while keeping the physical volume of the antenna constant. Genetic Algorithm has been used to shift the resonance frequency, but the resultant frequency is always random. Here the resultant frequency (2.4 GHz) is fixed with the help of a proper fitness function. Genetic algorithm was applied on patch surface of conventional 3 GHz and 4 GHz antennas and the rate of miniaturization is 24.4% and 45.8% respectively.
 
 [Download paper here](https://ieeexplore.ieee.org/document/9142912)
-
