@@ -4,7 +4,7 @@ collection: teaching
 type: "Design Tool"
 permalink: /teaching/2014-spring-teaching-1
 venue: "PSU, EE"
-date: Spring 2023
+date: 
 location: "City, Country"
 ---
 
