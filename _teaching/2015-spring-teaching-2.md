@@ -1,10 +1,10 @@
 ---
-title: "Graduate Teaching Assistant"
+title: "Graduate Teaching Assistant [Spring 2023]"
 collection: teaching
 type: "Design Tool"
 permalink: /teaching/2014-spring-teaching-1
 venue: "PSU, EE"
-date: 
+date: 2023-01-01
 location: "City, Country"
 ---
 
