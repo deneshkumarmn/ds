@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Graduate Teaching Assistant [Spring 2022 - Fall 2022]"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+type: "Digital Design"
+permalink: 
+venue: "Computer Science Department"
+date: 2022-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+- Responsible for assisting the professor in designing and implementing course curriculum
+- Presented 15 lab to undergraduate students in digital design
+- Conducting lectures and grading assignments and exams
+- Providing guidance and support to undergraduate students in the field of digital design
