@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aayush V. Shah"
+title                    : "Denesh Kumar"
 title_separator          : "-"
-name                     : &name "Aayush V. Shah"
-description              : &description "Graduate Student at the University of Washigton"
-url                      : https://aayush1909.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Denesh Kumar"
+description              : &description "Graduate Student at the Pennsylvania State University"
+url                      : https://deneshkumarmn.github.io/ds/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : aayushah19
+  username               : MnDenesh
 facebook:
   username               :
   app_id                 :
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Aayush V. Shah"
+  name             : "Denesh Kumar"
   avatar           : "Aayush_Photo_2.jpg"
   bio              : "Data Science • Software Development • Business Intelligence"
-  location         : "Seattle, Washington"
+  location         : "State college, PA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "aayush1909"
+  github           : "deneshkumarmn"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "aayushah19"
+  twitter          : "deneshkumar-m"
   vine             :
   weibo            :
   xing             :
