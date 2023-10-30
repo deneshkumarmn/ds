@@ -18,7 +18,7 @@ Oh, and also, I’m a HUGE cricket fan also I love white water kayaking and Ice 
 <img align="left" height="100" width="100" src="http://deneshkumarmn.github.io/ds/images/pennstate.png" style="padding-right:15px">
 
 **Master of Science (MS) in Electrical and Computer Engineering, [Pennsylvania State University](https://www.psu.edu/)**
-#### Aug 2021 - May 2023, University Park, USA
+#### Aug 2021 - May 2023 | University Park | USA
 
 -----
 I pursuaded my graduate degree in Electrical and Computer Science from the Pennsylvania State University with a focus in Data Science and Machine Learning. <br> <br>
@@ -32,8 +32,8 @@ I pursuaded my graduate degree in Electrical and Computer Science from the Penns
 -----
 <img align="left" height="100" width="100" src="http://deneshkumarmn.github.io/ds/images/amrita.png" style="padding-right:15px">
 
-**Bachelor of Technology (B.Tech) in Electronics and Communication Engineering, [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/)**
-#### July 2016 - Apr 2020, Tamil Nadu, India
+**Bachelor of Technology (B.Tech) in Electronics and Communication, [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/)**
+#### July 2016 - Apr 2020 | Tamil Nadu | India
 
 -----
 I completed my Undergraduate Degree in Electronics and Communication Engineering from the Amrita College of Engineering in 2020. <br> <br>
@@ -42,55 +42,66 @@ I completed my Undergraduate Degree in Electronics and Communication Engineering
 <br>
 # Experience
 -----
-<img align="left" height="100" width="100" src="../images/Terraclear.png" style="padding-right:15px">
+<img align="left" height="100" width="100" src="http://deneshkumarmn.github.io/ds/images/onebit.png" style="padding-right:15px">
 
-**Software Engineering Intern, [TerraClear Inc.](https://www.terraclear.com/)** 
-#### June 2020 - Present | Seattle, USA
+**Data Scientist, [ONEBIT](https://onebitapp.com/)** 
+#### June 2023 - Nov 2023 | Chicago, US
 ----- 
-*	Revamped the data processing pipeline for raw multispectral/RGB drone images to create the COCO dataset for the Convolutional Neural Networks in Linux
-*	Spearheaded research on image processing techniques for boundary & object detection from stitched orthomosaic images by leveraging OpenCV in Python
-*	Optimized operational processes of the Computer Vision & AI team by 60%+ and reduced 18+ man-hours per week
-*	Conducted code reviews and collaborated with cross-functional stakeholders to revamp code review procedures
-*	Designing & creating a relational PostgreSQL database to preserve JSON based drone data generated from the pilot portal
+*	Implemented AWS Glue for automated data ingestion, transformation, and ETL (Extract, Transform, Load) processes, ensuring efficient data processing and integration from various sources, including bank transactions, invoices, and
+expense receipts from S3 bucket.
+*	Utilized AWS warehouse for storing and managing large volumes of financial data from various sources such as bank
+transactions, invoices, and expense receipts. Utilizing its cloud-native architecture and elastic scalability to efficiently store, organize, and analyze financial data.
+*	Leveraged AWS Lambda to develop real-time data integration solutions, securely connecting with financial institution’s
+APIs and extracting transactional data on-the-fly, guaranteeing accurate and up-to-date financial information.
+*	Employed AWS CloudFormation to automate the infrastructure provisioning process, enabling repeatable and consistent
+deployments of data pipelines, and ensuring easy scalability and manageability.
 
 -----
-<img align="left" height="100" width="100" src="../images/Puratech.png" style="padding-right:15px">
+<img align="left" height="100" width="100" src="http://deneshkumarmn.github.io/ds/images/omdena.png" style="padding-right:15px">
 
-**Data Analyst Intern, [Puratech Solutions](https://www.puratech.co.in/)**
-#### June 2018 - August 2018 | Mumbai, India
+**Data Scientist, [Omdena](https://omdena.com/)**
+#### May 2022 - Sep 2022 | Remote, US
 -----
-*	Refactored the consumer demographic data collection process and increased operational efficiencies by 12%
-*	Collected & analyzed web scraped data in R to derive insights on customer behavior, informing strategies that increased the customer retention rate by 9%
-*	Conceptualized and implemented A/B test plans to validate customer hypotheses and understand customer behavior patterns
+*	Collected data from various sources such as REST API, MySQL server and stored it in AWS S3 Data Lake.
+*	Built ETL pipeline with the help of AWS Glue and used AWS EC2 to cleanse, mask and transform raw data into the
+canonical form.
+*	Stored various transformed databases in AWS Redshift for analysis. Used Qlik Sense to create dashboard and improved
+business profit by 18%.
+* Used clustering models to cluster into several groups. Used several Machine Learning Algorithms for each cluster and
+found out that XGBoost Algorithm performed the best.
+* F1 score was the metric used to evaluate the algorithm performance and the project was deployed using Streamlit
+framework.
+-----
+<img align="left" height="100" width="100" src="http://deneshkumarmn.github.io/ds/images/omdena.png" style="padding-right:15px">
+
+**Data Aanlyst, [Omdena](https://omdena.com/)** 
+#### Feb 2022 - July 2022 | Remote, US
+-----
+*	Used MySQL Database for data storage and built KPI dashboard in Power BI to perform in-depth analysis of Clients revenue insights.
+*	Helped in regaining their market share and revenue by 15% in the next quarter.
+* Used Machine Learning to forecast the revenue insights of the company.
+* Used Feature Engineering to improve the adjusted R-Squared Score from 0.72 to 0.87.
 
 -----
-<img align="left" height="100" width="100" src="../images/Greymeter.png" style="padding-right:15px">
+<img align="left" height="100" width="100" src="http://deneshkumarmn.github.io/ds/images/omdena.png" style="padding-right:15px">
 
-**Digital Analyst Intern, [Greymeter](https://aayush1909.github.io/)** 
-#### December 2015 - January 2016 | Mumbai, India
+**Data Scientist, [Omdena](https://omdena.com/)** 
+#### Feb 2021 - July 2021 | Remote, US
 -----
-*	Re-engineered area-specific social media campaigns by analyzing student performance and collecting it in Excel
-*	Used Marketing Analytics, Google Analytics to increase the likes on social media platforms by 58% in a month
-
------
-<img align="left" height="100" width="100" src="../images/3DcreatR.jpg" style="padding-right:15px">
-
-**Marketing Research Analyst Intern, [3DcreatR](http://www.3dcreatr.com/)** 
-#### July 2015 - August 2015 | Mumbai, India
------
-*	Researched the various pedagogical trends to understand the willingness of schools to add 3D printing to their curriculum 
-*	Re-designed the database of the top schools willing to participate in this program and improved the data quality by 17%
-
+*	Used QGIS software to perform in-depth analysis and processing of Sentinel 2 data.
+*	Stored all the raw data in AWS S3 and after transformation shifted the data into AWS Redshift for different use
+cases.Created datasets in image format and csv format.
+* Built Machine Learning models using the csv format and Computer Vision models using image format for farming habit
+at classification for classifying commercial crops and peripheral habitats on farm that can be used by food industry bodies to contextualize on-farm data that is self-reported by farmers.
 <br>
 
 # Key Skills
 ----
-* <strong> Programming Languages: </strong> Python, R, Java, HTML5, CSS3, C, Javascript <br>
-* <strong> Operating Systems: </strong> Windows, Linux, Ubuntu <br>
-* <strong> Libraries: </strong> PyTorch, Tensorflow, Keras, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Statsmodel, NLTK, Caret, Ggplot <br>
-* <strong> Databases: </strong> MySQL, PostreSQL, T-SQL, MongoDB, SSMS, SSIS <br>
+* <strong> Programming Languages: </strong> Python, R, Scala, C, C++ <br>
+* <strong> Libraries: </strong> PyTorch, Tensorflow, Keras, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Statsmodel, NLTK, ggplot <br>
+* <strong> Databases: </strong> MySQL, PostreSQL, MongoDB, SAS <br>
 * <strong> Visualization Tools: </strong> Tableau, PowerBI, Qlikview <br>
-* <strong> Modeling: </strong> Linear Regression, Logistic Regression, SVM, Decision Trees, Random Forests, Bagging, Boosting, K-means, KNN, Latent Dirichlet Allocation, Sentiment Analysis, Lasso Regression, Ridge Regression, Naïve Bayes, Deep Neural Networks, Convolutional Neural Networks, ARIMA, SARIMA <br>
-* <strong> Tools: </strong> AWS SageMaker, AWS Lambda, AWS EC2, AWS API Gateway, Jira, Git, MS Excel <br>
-  
+* <strong> Modeling: </strong> Linear Regression, Logistic Regression, SVM, Decision Trees, Random Forests, Bagging, Boosting, K-means, KNN, Latent Dirichlet Allocation, Sentiment Analysis, Lasso Regression, Ridge Regression, Naive Bayes, Deep Neural Networks, Convolutional Neural Networks, ARIMA, SARIMA <br>
+* <strong> Tools: </strong> AWS - Redshift, Lambda, SageMaker, Glue, EC2, S3, Azure Databricks, Jira, Git, MS Excel <br>
+* <strong> Tools: </strong> Heroku, Streamlit, Tensorflow ext  
 ----
