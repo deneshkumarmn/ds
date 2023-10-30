@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : aayushah19
+  username               : MnDenesh
 facebook:
   username               :
   app_id                 :
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Denesh Kumar M"
   avatar           : "Aayush_Photo_2.jpg"
-  bio              : "Data Science • Software Development • Business Intelligence"
-  location         : "Seattle, Washington"
+  bio              : "Data Science • Machine Learning • Business Intelligence"
+    location         : "State College, PA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "aayushah@uw.edu"
+  email            : "deneshkumar.mn@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "aayush1909"
+  github           : "deneshkumarmn"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "aayush-shah19"
+  linkedin         : "deneshkumar-m"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "aayushah19"
+  twitter          : "MnDenesh"
   vine             :
   weibo            :
   xing             :
