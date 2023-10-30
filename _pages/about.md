@@ -1,116 +1,98 @@
 ---
 permalink: /
-title: "About me!"
+title: "About Me!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Hey, thanks for visiting my website. I'm Aayush - a recent (2021) graduate from the [University of Washington](https://www.washington.edu/). I'm a Machine Learning Engineer/Data Scientist with over two years of experience working in fast-scaling & high-performance teams.
 
-Hey, thanks for visiting my website. I’m Denesh - a recent (2023) graduate from the Pennsylvania State University. Data Scientist with two year of experience executing data-driven solution to increase efficiency, accuracy, and utility of internal data processing. Experienced at creating data regression models, and using predictive data modeling to deliver insights and implement action-oriented solution to complex industrial problems.
+Currently, I am working as a Machine Learning Engineer at [Stats Perform](https://www.statsperform.com/) aiming to build a platform to help Data Scientists and AI Scientists in productionizing their models. I have also recently worked as a Student Researcher at [Microsoft](https://www.microsoft.com/en-us/) and at [TerraClear](https://www.terraclear.com/) as a Software Engineer. I have a Bachelor of Technology degree in Computer Science from the [University of Mumbai](https://kjsce.somaiya.edu/en).
 
-I hold a Master's degree in Data Science and stay committed to continuous learning, staying updated with the latest trends in AI and data science. I’m super enthusiastic about learning new technologies and how these can be best used in my job! I often gravitate towards project making me think out of the box and am always up for any new and exciting opportunities coming my way.
+I'm super enthusiastic about learning new technologies and how these can be best used in my job! I often gravitate towards project making me think out of the box and am always up for any new and exciting opportunities coming my way.
 
-Oh, and also, I’m a HUGE cricket fan also I love white water kayaking and Ice climbing. I have recently summit mount Algonquin Peak (Second largest peak in east cost). Hit me up if you want to talk sports, adventure, machine learning, data science, or anything fun in life! :) 
+Oh, and also, I'm a sports buff and a HUGE Formula 1 fan. Hit me up if you want to talk sports, machine learning, data science, or anything fun in life! :)
+<br> <br>
+# Education
+-----
+<img align="left" height="100" width="100" src="../images/UW_Logo2.jpg" style="padding-right:15px">
 
+**Master of Science (MS) in Information Management, [University of Washington](https://www.washington.edu/)**
+#### September 2019 - Present | Seattle, USA
 
-Education
-======
-------
-<img align="left" width="130" height="130" src="http://deneshkumarmn.github.io/ds/images/pennstate.png">
-### Master of Science (MS) in Electrical and Computer Engineering [Pennsylvania State University](https://www.psu.edu/) <br> 
-###### Aug 2021 - May 2023, University Park, USA <br>
+-----
+I am currently pursuing my Graduate Degree in Information Management from the University of Washington with a focus in Data Science and Business Intelligence. <br> <br>
+<strong>CGPA: </strong> 3.82/4.0 <br>
+<strong>Relevant coursework:</strong>
+* <strong>Fall '20: </strong>Statistics, Advanced Databases <br>
+* <strong>Spring '20: </strong>Scaling and Applications in Data Science, Business Intelligence Systems, Research and Analysis for Information Management Professionals <br>
+* <strong>Winter '20: </strong>Machine Learning and Econometrics, Relational Database Management Systems <br>
+* <strong>Fall '19: </strong>Foundations of Data Science  <br>
 
-------
+-----
+<img align="left" height="100" width="100" src="../images/somaiya.png" style="padding-right:15px">
 
-I currently pursuaded my graduate degree in Electrical and Computer Science from the Pennsylvania State University with a focus in Data Science and Machine Learning. <br>
+**Bachelor of Technology (B.Tech) in Computer Science, [University of Mumbai](https://mu.ac.in/)**
+#### August 2015 - June 2019 | Mumbai, India
 
-**CGPA:** 3.82/4.0 <br>
-**Relevant coursework:**
+-----
+I completed my Undergraduate Degree in Computer Science from the University of Mumbai - K.J Somaiya College of Engineering in 2019. <br> <br>
+<strong>CGPA:</strong> 3.7/4.0 <br> 
+<strong>Relevant coursework:</strong> Artificial Intelligence, Machine Learning, Big Data Analytics, Data Warehousing and Mining, Neural Networks and Fuzzy Logic, Image Analysis, Introduction to Business Intelligence, Fundamentals of Programming, Data Structures, Analysis of Algorithms, Operating Systems, Object Oriented Programming, Applied Mathematics <br>
+<br>
+# Experience
+-----
+<img align="left" height="100" width="100" src="../images/Terraclear.png" style="padding-right:15px">
 
-- **Fall ‘21:** Computer vision, Image Processing 
-- **Spring ‘22:** Machine Learning and AI, Pattern Recognition and Machine Learning, Advanced Computer Vision Algorithm 
-- **Fall ‘22:** Data Analytics, Data Mining, Fairness Incentives in Mechanism Design 
-- **Spring ‘23:** Applications in Data Science
+**Software Engineering Intern, [TerraClear Inc.](https://www.terraclear.com/)** 
+#### June 2020 - Present | Seattle, USA
+----- 
+*	Revamped the data processing pipeline for raw multispectral/RGB drone images to create the COCO dataset for the Convolutional Neural Networks in Linux
+*	Spearheaded research on image processing techniques for boundary & object detection from stitched orthomosaic images by leveraging OpenCV in Python
+*	Optimized operational processes of the Computer Vision & AI team by 60%+ and reduced 18+ man-hours per week
+*	Conducted code reviews and collaborated with cross-functional stakeholders to revamp code review procedures
+*	Designing & creating a relational PostgreSQL database to preserve JSON based drone data generated from the pilot portal
+
+-----
+<img align="left" height="100" width="100" src="../images/Puratech.png" style="padding-right:15px">
+
+**Data Analyst Intern, [Puratech Solutions](https://www.puratech.co.in/)**
+#### June 2018 - August 2018 | Mumbai, India
+-----
+*	Refactored the consumer demographic data collection process and increased operational efficiencies by 12%
+*	Collected & analyzed web scraped data in R to derive insights on customer behavior, informing strategies that increased the customer retention rate by 9%
+*	Conceptualized and implemented A/B test plans to validate customer hypotheses and understand customer behavior patterns
+
+-----
+<img align="left" height="100" width="100" src="../images/Greymeter.png" style="padding-right:15px">
+
+**Digital Analyst Intern, [Greymeter](https://aayush1909.github.io/)** 
+#### December 2015 - January 2016 | Mumbai, India
+-----
+*	Re-engineered area-specific social media campaigns by analyzing student performance and collecting it in Excel
+*	Used Marketing Analytics, Google Analytics to increase the likes on social media platforms by 58% in a month
+
+-----
+<img align="left" height="100" width="100" src="../images/3DcreatR.jpg" style="padding-right:15px">
+
+**Marketing Research Analyst Intern, [3DcreatR](http://www.3dcreatr.com/)** 
+#### July 2015 - August 2015 | Mumbai, India
+-----
+*	Researched the various pedagogical trends to understand the willingness of schools to add 3D printing to their curriculum 
+*	Re-designed the database of the top schools willing to participate in this program and improved the data quality by 17%
+
 <br>
 
-------
-
-
-
-<img align="left" width="140" height="350" src="http://deneshkumarmn.github.io/ds/images/amrita.png">
-### Batchelor of Technology (B.Tech) in Electronics and Communication Engineering [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/) <br>
-###### Jul 2016 - Apr 2020, Tamil Nadu, India <br>
-
-------
-I completed my Undergraduate Degree in Electronics and Communication Engineering from the Amrita College of Engineering in 2020. 
-
-**CGPA:** 7.20/10 <br>
-**Relevant coursework:** Optimization Techniques, Operations Research, Computational Thinking and Problem Solving, Computer Programming, Calculus and Matrix Algebra, Vector Calculus and Ordinary Differential Equations, Linear Algebra, Probability and Random Processes  
-
-<br>
-
-Experience
-======
-------
-<img align="left" width="110" height="140" src="http://deneshkumarmn.github.io/ds/images/onebit.png">
-### Data Scientist [ONEBIT](https://onebitapp.com/) <br>
-###### June 2023 - Nov 2023, Chicago, US <br>
-------
-
-- Implemented AWS Glue for automated data ingestion, transformation, and ETL (Extract, Transform, Load) processes, ensuring efficient data processing and integration from various sources, including bank transactions, invoices, and
-expense receipts from S3 bucket.
-- Utilized AWS warehouse for storing and managing large volumes of financial data from various sources such as bank
-transactions, invoices, and expense receipts. Utilizing its cloud-native architecture and elastic scalability to efficiently
-store, organize, and analyze financial data.
-- Leveraged AWS Lambda to develop real-time data integration solutions, securely connecting with financial institution’s
-APIs and extracting transactional data on-the-fly, guaranteeing accurate and up-to-date financial information.
-- Employed AWS CloudFormation to automate the infrastructure provisioning process, enabling repeatable and consistent
-deployments of data pipelines, and ensuring easy scalability and manageability.
-
-------
-<img align="left" width="110" height="140" src="http://deneshkumarmn.github.io/ds/images/omdena.png">
-### Data Scientist [Omdena](https://omdena.com/) <br>
-###### May 2022 - Sep 2022, Remote, US <br>
-------
-- Collected data from various sources such as REST API, MySQL server and stored it in AWS S3 Data Lake.
-- Built ETL pipeline with the help of AWS Glue and used AWS EC2 to cleanse, mask and transform raw data into the
-canonical form.
-- Stored various transformed databases in AWS Redshift for analysis. Used Qlik Sense to create dashboard and improved
-business profit by 18%.
-- Used clustering models to cluster into several groups. Used several Machine Learning Algorithms for each cluster and
-found out that XGBoost Algorithm performed the best.
-- F1 score was the metric used to evaluate the algorithm performance and the project was deployed using Streamlit
-framework.
-
-------
-<img align="left" width="110" height="140" src="http://deneshkumarmn.github.io/ds/images/omdena.png">
-### Data Aanlyst [Omdena](https://omdena.com/) <br>
-###### Feb 2022 - July 2022, Remote, US <br>
-------
-- Used MySQL Database for data storage and built KPI dashboard in Power BI to perform in-depth analysis of Clients revenue insights.
-- Helped in regaining their market share and revenue by 15% in the next quarter.
-- Used Machine Learning to forecast the revenue insights of the company.
-- Used Feature Engineering to improve the adjusted R-Squared Score from 0.72 to 0.87.
-
-------
-<img align="left" width="110" height="140" src="http://deneshkumarmn.github.io/ds/images/omdena.png">
-### Data Scientist [Omdena](https://omdena.com/) <br>
-###### Feb 2021 - July 2021, Remote, US <br>
-------
-- Used QGIS software to perform in-depth analysis and processing of Sentinel 2 data.
-- Stored all the raw data in AWS S3 and after transformation shifted the data into AWS Redshift for different use
-cases.Created datasets in image format and csv format.
-- Built Machine Learning models using the csv format and Computer Vision models using image format for farming habit
-at classification for classifying commercial crops and peripheral habitats on farm that can be used by food industry bodies to contextualize on-farm data that is self-reported by farmers.
-
-Key Skills
-======
-- **Programming Languages:** Python, R, Scala, C, C++
-- **Libraries:** PyTorch, Tensorflow, Keras, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Statsmodel, NLTK, ggplot
-- **Databases:** MySQL, PostreSQL, MongoDB, SAS
-- **Visualization Tools:** Tableau, PowerBI, QlikView
-- **Modeling:** Linear Regression, Logistic Regression, SVM, Decision Trees, Random Forests, Bagging, Boosting, K-means, KNN, Latent Dirichlet Allocation, Lasso Regression, Ridge Regression, Naive Bayes, Deep Neural Networks, Convolutional Neural Networks, ARIMA, SARIMA
-- **Tools:** AWS - Redshift, Lambda, SageMaker, Glue, EC2, S3, Azure Databricks, Jira, Git, MS Excel
-- **Deployment:** Heroku, Streamlit, Tensorflow ext
+# Key Skills
+----
+* <strong> Programming Languages: </strong> Python, R, Java, HTML5, CSS3, C, Javascript <br>
+* <strong> Operating Systems: </strong> Windows, Linux, Ubuntu <br>
+* <strong> Libraries: </strong> PyTorch, Tensorflow, Keras, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Statsmodel, NLTK, Caret, Ggplot <br>
+* <strong> Databases: </strong> MySQL, PostreSQL, T-SQL, MongoDB, SSMS, SSIS <br>
+* <strong> Visualization Tools: </strong> Tableau, PowerBI, Qlikview <br>
+* <strong> Modeling: </strong> Linear Regression, Logistic Regression, SVM, Decision Trees, Random Forests, Bagging, Boosting, K-means, KNN, Latent Dirichlet Allocation, Sentiment Analysis, Lasso Regression, Ridge Regression, Naïve Bayes, Deep Neural Networks, Convolutional Neural Networks, ARIMA, SARIMA <br>
+* <strong> Tools: </strong> AWS SageMaker, AWS Lambda, AWS EC2, AWS API Gateway, Jira, Git, MS Excel <br>
+  
+----
