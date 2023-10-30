@@ -72,6 +72,7 @@ found out that XGBoost Algorithm performed the best.
 * F1 score was the metric used to evaluate the algorithm performance and the project was deployed using Streamlit
 framework.
 -----
+
 <img align="left" height="100" width="100" src="http://deneshkumarmn.github.io/ds/images/omdena.png" style="padding-right:15px">
 
 **Data Aanlyst, [Omdena](https://omdena.com/)** 
@@ -103,5 +104,5 @@ at classification for classifying commercial crops and peripheral habitats on fa
 * <strong> Visualization Tools: </strong> Tableau, PowerBI, Qlikview <br>
 * <strong> Modeling: </strong> Linear Regression, Logistic Regression, SVM, Decision Trees, Random Forests, Bagging, Boosting, K-means, KNN, Latent Dirichlet Allocation, Sentiment Analysis, Lasso Regression, Ridge Regression, Naive Bayes, Deep Neural Networks, Convolutional Neural Networks, ARIMA, SARIMA <br>
 * <strong> Tools: </strong> AWS - Redshift, Lambda, SageMaker, Glue, EC2, S3, Azure Databricks, Jira, Git, MS Excel <br>
-* <strong> Tools: </strong> Heroku, Streamlit, Tensorflow ext  
+* <strong> Deployment: </strong> Heroku, Streamlit, Tensorflow ext <br>
 ----
