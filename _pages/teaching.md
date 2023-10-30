@@ -6,57 +6,30 @@ author_profile: true
 ---
 
 -----
-**[Fall 2020] Teaching Assistant - Python Programming**
+**[Spring 2023] Graduate Teaching Assistant - Design Tool**
 
 -----
-*	Worked with [Prof. Randal Root](https://www.linkedin.com/in/randalroot/) at the University of Washington - [Continuum College](https://www.continuum.uw.edu/) for the course IT FDN 110
-* Graded assignments and acted as a liaison between the students and the professor
+*	Worked with [Prof. Xiaozhen Wang](https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=xbw5192) at the Pennsylvania State University. 
+* I had the opportunity to present 30 lab sessions to undergraduate students. These labs were designed to introduce students to various concepts and tools in the field of electrical engineering, including Labview software, building and connecting circuits to Labview software and processing data using Mydaq and CRIO devices, and Microcontroller programming using MPLAB X software.
+* During these lab sessions, I was responsible for guiding students through the hands-on learning process, ensuring that they had a solid understanding of the material and were able to complete the lab exercises successfully. I also provided individual support to students during office hours and helped them troubleshoot any issues they encountered.
+* Through my experience as a Graduate Teaching Assistant, I was able to develop a strong understanding of Labview, myDAQ, cRIO, and MPLAB X software, as well as gain valuable communication and leadership skills. I found that I particularly enjoyed working with students and helping them develop their skills in electrical engineering.
 
 -----
-**[Fall 2020] Graduate Teaching Assistant - Introduction to Data Science**
+**[Spring 2022 - Fall 2022] Graduate Teaching Assistant - Digital Design**
 
 -----
-*	Worked with [Prof. Gene Kim](https://www.linkedin.com/in/gene-kim-ph-d-88527b7/) at the University of Washington - [Information School](https://ischool.uw.edu/) for the course IMT 572
-* Followed and upheld school rules and standards, ensured all activities, services, and programs were conducted in a manner that is sensitive to, and shows respect for, cultural and ethnic diversity
+*	Worked with [Prof. Oren Gall](https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=OZG1) at the Pennsylvania State University
+* Responsible for assisting the professor in designing and implementing course curriculum
+* Presented 15 lab to undergraduate students in digital design
+* Conducting lectures and grading assignments and exams
+* Providing guidance and support to undergraduate students in the field of digital design
 
 -----
-**[Summer 2020] Teaching Assistant - Basics of Python Programming**
+**[Fall 2021] Graduate Teaching Assistant - Basics of Python Programming**
 
 -----
-*	Worked with [Prof. Randal Root](https://www.linkedin.com/in/randalroot/) at the University of Washington - [Continuum College](https://www.continuum.uw.edu/) for the course IT FDN 110
+*	Worked with [Prof. Mohamed Almekkawy](https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=MKA9) at the Pennsylvania State University
 * Graded assignments and acted as a liaison between the students and the professor
 * Conducted office hours every week to help students with their queries
 
 -----
-
-**[Spring 2020] Graduate Teaching Assistant - Machine Learning Methods and AI**
-
------
-*	Worked with [Prof. Lalit Jain](https://www.linkedin.com/in/lalit-jain-87ab9223/) at the University of Washington - [Foster School of Business](https://foster.uw.edu/) for the course BUS AN 517
-* Created and graded assignments while acting as a liaison between the students and the professor
-* Conducted weekly office hours to help the students with their doubts
-
------
-**[Spring 2020] Graduate Teaching Assistant - Introduction to Programming for Data Science**
-
------
-*	Worked with [Prof. Joel Ross](https://www.linkedin.com/in/joel-ross-9192a31b/) at the University of Washington - [Information School](https://ischool.uw.edu/) for the course IMT 511
-* Assisted the professor in the execution of lesson plans, providing individual attention to student(s) during individual and group sessions
-* Followed and upheld school rules and standards, ensured all activities, services, and programs were conducted in a manner that is sensitive to, and shows respect for, cultural and ethnic diversity
-
------
-**[Winter 2020] Teaching Assistant - Foundations of Programming: Python**
-
------
-*	Worked with [Prof. Randal Root](https://www.linkedin.com/in/randalroot/) at the University of Washington - [Continuum College](https://www.continuum.uw.edu/) for the course IT FDN 100
-* Held weekly TA sessions to help students with their concerns/doubts
-* Graded Assignments and acted as a liaison between the students and the professor
-* Cultivated a positive, organized learning atmosphere by maintaining a fun and interactive classroom that is clean, organized, developmentally appropriate and engaging
-
------
-**[Fall 2019] Graduate Teaching Assistant - Python Programming Essentials**
-
------
-*	Worked with [Prof. Summer Rae](https://www.linkedin.com/in/summerela/) at the University of Washington - [Foster School of Business](https://foster.uw.edu/) for the course BUS AN 511
-* Acted as a liaison between the students and the professor and tried maintaining an organized learning atmosphere
-* Graded assignments and conducted regular TA sessions
