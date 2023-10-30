@@ -7,40 +7,38 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hey, thanks for visiting my website. I'm Aayush - a recent (2021) graduate from the [University of Washington](https://www.washington.edu/). I'm a Machine Learning Engineer/Data Scientist with over two years of experience working in fast-scaling & high-performance teams.
+Hey, thanks for visiting my website. I’m Denesh - a recent (2023) graduate from the Pennsylvania State University. Data Scientist with two year of experience executing data-driven solution to increase efficiency, accuracy, and utility of internal data processing. Experienced at creating data regression models, and using predictive data modeling to deliver insights and implement action-oriented solution to complex industrial problems.
 
-Currently, I am working as a Machine Learning Engineer at [Stats Perform](https://www.statsperform.com/) aiming to build a platform to help Data Scientists and AI Scientists in productionizing their models. I have also recently worked as a Student Researcher at [Microsoft](https://www.microsoft.com/en-us/) and at [TerraClear](https://www.terraclear.com/) as a Software Engineer. I have a Bachelor of Technology degree in Computer Science from the [University of Mumbai](https://kjsce.somaiya.edu/en).
+I hold a Master's degree in Data Science and stay committed to continuous learning, staying updated with the latest trends in AI and data science. I’m super enthusiastic about learning new technologies and how these can be best used in my job! I often gravitate towards project making me think out of the box and am always up for any new and exciting opportunities coming my way.
 
-I'm super enthusiastic about learning new technologies and how these can be best used in my job! I often gravitate towards project making me think out of the box and am always up for any new and exciting opportunities coming my way.
-
-Oh, and also, I'm a sports buff and a HUGE Formula 1 fan. Hit me up if you want to talk sports, machine learning, data science, or anything fun in life! :)
+Oh, and also, I’m a HUGE cricket fan also I love white water kayaking and Ice climbing. I have recently summit mount Algonquin Peak (Second largest peak in east cost). Hit me up if you want to talk sports, adventure, machine learning, data science, or anything fun in life! :) 
 <br> <br>
 # Education
 -----
-<img align="left" height="100" width="100" src="../images/UW_Logo2.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="http://deneshkumarmn.github.io/ds/images/pennstate.png" style="padding-right:15px">
 
-**Master of Science (MS) in Information Management, [University of Washington](https://www.washington.edu/)**
-#### September 2019 - Present | Seattle, USA
+**Master of Science (MS) in Electrical and Computer Engineering, [Pennsylvania State University](https://www.psu.edu/)**
+#### Aug 2021 - May 2023, University Park, USA
 
 -----
-I am currently pursuing my Graduate Degree in Information Management from the University of Washington with a focus in Data Science and Business Intelligence. <br> <br>
-<strong>CGPA: </strong> 3.82/4.0 <br>
+I pursuaded my graduate degree in Electrical and Computer Science from the Pennsylvania State University with a focus in Data Science and Machine Learning. <br> <br>
+<strong>CGPA: </strong> 3.56/4.0 <br>
 <strong>Relevant coursework:</strong>
-* <strong>Fall '20: </strong>Statistics, Advanced Databases <br>
-* <strong>Spring '20: </strong>Scaling and Applications in Data Science, Business Intelligence Systems, Research and Analysis for Information Management Professionals <br>
-* <strong>Winter '20: </strong>Machine Learning and Econometrics, Relational Database Management Systems <br>
-* <strong>Fall '19: </strong>Foundations of Data Science  <br>
+* <strong>Fall ‘21: </strong>Computer vision, Image Processing <br>
+* <strong>Spring ‘22: </strong>Machine Learning and AI, Pattern Recognition and Machine Learning, Advanced Computer Vision Algorithm <br>
+* <strong>Fall ‘22: </strong>Data Analytics, Data Mining, Fairness Incentives in Mechanism Design <br>
+* <strong>Spring ‘23: </strong>Applications in Data Science  <br>
 
 -----
-<img align="left" height="100" width="100" src="../images/somaiya.png" style="padding-right:15px">
+<img align="left" height="100" width="100" src="http://deneshkumarmn.github.io/ds/images/amrita.png" style="padding-right:15px">
 
-**Bachelor of Technology (B.Tech) in Computer Science, [University of Mumbai](https://mu.ac.in/)**
-#### August 2015 - June 2019 | Mumbai, India
+**Bachelor of Technology (B.Tech) in Electronics and Communication Engineering, [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/)**
+#### July 2016 - Apr 2020, Tamil Nadu, India
 
 -----
-I completed my Undergraduate Degree in Computer Science from the University of Mumbai - K.J Somaiya College of Engineering in 2019. <br> <br>
-<strong>CGPA:</strong> 3.7/4.0 <br> 
-<strong>Relevant coursework:</strong> Artificial Intelligence, Machine Learning, Big Data Analytics, Data Warehousing and Mining, Neural Networks and Fuzzy Logic, Image Analysis, Introduction to Business Intelligence, Fundamentals of Programming, Data Structures, Analysis of Algorithms, Operating Systems, Object Oriented Programming, Applied Mathematics <br>
+I completed my Undergraduate Degree in Electronics and Communication Engineering from the Amrita College of Engineering in 2020. <br> <br>
+<strong>CGPA:</strong> 7.20/10 <br> 
+<strong>Relevant coursework:</strong> Optimization Techniques, Operations Research, Computational Thinking and Problem Solving, Computer Programming, Calculus and Matrix Algebra, Vector Calculus and Ordinary Differential Equations, Linear Algebra, Probability and Random Processes<br>
 <br>
 # Experience
 -----
