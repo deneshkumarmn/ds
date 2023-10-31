@@ -41,16 +41,17 @@ author_profile: true
 * Spread awareness about health and sanitation by attending regular beach cleanups and by beautifying a railway station in Mumbai, India <br>
 
 -----
-<img align="left" height="100" width="100" src="https://github.com/deneshkumarmn/ds/blob/master/images/nss.png" style="padding-right:15px">
+<img align="left" height="100" width="100" src="images/nss.png" style="padding-right:15px">
 
 **NSS Special Camp, Amrita College of Engineering**
 #### June 2016 - Septmeber 2020 | Coimbatore, India
 
 -----
-* Create avarness on importance of classifying waste and setting up waste management unit in neighboring village
-* Short videos on environmental issues, importance of schooling and demerits of school
+* Creating avarness on importance of classifying waste and setting up waste management unit in neighboring village
+* Created short videos on environmental issues, importance of schooling and demerits of school
 dropouts were screened to students and parents in nearby village
-* Encourage blood donation and perform eye checkup to under previlages community <br>
-[Report 1](https://intranet.cb.amrita.edu/sites/default/files/SPECIAL_CAMP_2016_2017_unit_2.pdf)
+* Encouraged blood donation and perform eye checkup to under previlages community in Ettimadai district <br>
+[Report 1](https://intranet.cb.amrita.edu/sites/default/files/SPECIAL_CAMP_2016_2017_unit_2.pdf) <br>
 [Report 2](https://intranet.cb.amrita.edu/sites/default/files/NSS_SPECIAL_CAMP_2020_REPORT_UNIT-2.pdf)
+
 -----
