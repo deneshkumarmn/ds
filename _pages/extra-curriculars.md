@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 -----
-<img align="left" height="100" width="100" src="../images/stuco.png" style="padding-right:15px">
+<img align="left" height="100" width="100" src="https://github.com/deneshkumarmn/ds/blob/master/images/nss.png" style="padding-right:15px">
 
 **Teaching Volunteer,U&I Trust**
 #### June 2019 - June 2020 | Tamil Nadu, India
