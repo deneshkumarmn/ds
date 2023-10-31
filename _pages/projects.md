@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 -----
-<img align="left" height="100" width="100" src="../images/malware_detection.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/walmart.png" style="padding-right:15px">
 
 **Business Analyst, Walmart Weekly Sales Analysis and Prediction**
-#### March 2020 - June 2020 | State college, USA
+#### March 2020 - June 2020 | Pennsylvania, USA
 
 -----
 *	Analyzed Walmarts weekly sales data from 45 stores to gain insights into their sales performance and identify trends and patterns that could improve business optimization and strategic decisions
@@ -21,7 +21,7 @@ Here is the - [Github Repo](https://github.com/aayush1909/DGA-or-Benign)
 <img align="left" height="100" width="100" src="../images/grocery_store.jpg" style="padding-right:15px">
 
 **Team Lead, Grocery Retail Sales Analysis**
-#### May 2020 | Seattle, USA
+#### May 2020 | Pennsylvania, USA
 
 -----
 *	Analyzed various store trends and created dashboards using Tableau to understand categories and items the store can focus on
@@ -33,7 +33,7 @@ Here is the - [Github Repo](https://github.com/aayush1909/Grocery-Retail-Sales-A
 <img align="left" height="100" width="100" src="../images/grocery_store.jpg" style="padding-right:15px">
 
 **Machine Learning, Attendance System**
-#### May 2020 | State college, USA
+#### May 2020 | Pennsylvania, USA
 
 -----
 * This is a vision bases attendance system which detects and recognises peoples presence and marks their attendance. 
@@ -47,7 +47,7 @@ Here is the - [Github Repo](https://github.com/aayush1909/Grocery-Retail-Sales-A
 <img align="left" height="100" width="100" src="../images/sales.jpg" style="padding-right:15px">
 
 **Data Science, Credit Repayment Prediction**
-#### March 2020 - June 2020 | State college, USA
+#### March 2020 - June 2020 | Pennsylvania, USA
 
 -----
 *	Developing a classification model to determine if the customer of the bank will be able to pay his credit on time
@@ -75,8 +75,8 @@ Here is the - [Github Repo](https://github.com/aayush1909/Fresh-or-Rotten)
 #### March 2020 - June 2020 | Pennsylvania, USA
 
 -----
-*	Developed an model to flag fraudelent crypto-currency transcaction 
-*	Implement K-Means and GMM with principle compound analysis and comparing the rand index <br>
+*	Developed an unsupervised machine learning model to flag fraudelent crypto-currency transcactions 
+*	Implement K-Means and GMM with principle compound analysis and comparing the Rand Index finding best cluster for the dataset <br>
 
 Here is the - [Github Repo](https://github.com/aayush1909/Business-Intelligence-Systems)
 
