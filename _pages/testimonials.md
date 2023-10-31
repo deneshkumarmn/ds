@@ -7,7 +7,7 @@ author_profile: true
 -----
 [Prof. Xiaozhen Wang](https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=xbw5192), Assistant Teaching Professor at the Pennsylvania State University
 
-I wholeheartedly recommend Denesh for opportunities. His proficiency with course design tools, exceptional lab presentations, commitment to evaluations and grading, ability to excel under pressure, and consistency in his work make him an outstanding candidate. I have no doubt that denesh will continue to excel in his academic and professional endeavors.
+"I wholeheartedly recommend Denesh for opportunities. His proficiency with design tools, exceptional lab presentations, commitment to evaluations and grading, ability to excel under pressure, and consistency in his work make him an outstanding candidate. I have no doubt that denesh will continue to excel in his academic and professional endeavors."
 
 -----
 [Prof. Oren Gall](https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=OZG1), Associate Teaching Professor at the Pennsylvania State University
@@ -17,7 +17,7 @@ I wholeheartedly recommend Denesh for opportunities. His proficiency with course
 -----
 [Dr. Natarajamani S](https://www.amrita.edu/faculty/s-natarajamani/), Professor at Amrita College of Engineering
 
-" He had very high grasping capacity and took part actively in all course activities and classroom discussions. He is very attentive student in class and also being on time with his submissions. I am part of the project review panel for final year ECE student, so this gave me an opportunity to review his presentation skills and his technical knowledge. A good example of this is when he presented a paper on Antenna Miniaturization which is his final year project. During his presentation, he proved not only his strong technical knowledge but also his communication skills. He has a curious mind and good interpretation ability that will greatly facilitate research work in your university. In addition, he has a great avidity for growing his knowledge by pursuing his graduate studies."
+"He had very high grasping capacity and took part actively in all course activities and classroom discussions. He is very attentive student in class and also being on time with his submissions. I am part of the project review panel for final year ECE student, so this gave me an opportunity to review his presentation skills and his technical knowledge. A good example of this is when he presented a paper on Antenna Miniaturization which is his final year project. During his presentation, he proved not only his strong technical knowledge but also his communication skills. He has a curious mind and good interpretation ability that will greatly facilitate research work in your university. In addition, he has a great avidity for growing his knowledge by pursuing his graduate studies."
 
 Read more [here](https://github.com/deneshkumarmn/ds/blob/master/files/natrajmani_lor.pdf)
 
