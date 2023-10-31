@@ -33,3 +33,11 @@ author_profile: true
 * Conducted office hours every week to help students with their queries
 
 -----
+**[Fall 2019] Lab Assistant - Computer Programming Lab**
+
+-----
+*	Worked with [Dr. Sabarish](https://www.amrita.edu/faculty/ba-sabarish/) at the Amrita College of Engineering
+* Assist students with doubts during lab sessions 
+* Graded Assignments and acted as a liaison between the students and the professor
+
+-----
