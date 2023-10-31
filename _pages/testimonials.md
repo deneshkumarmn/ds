@@ -4,25 +4,35 @@ title: "Testimonials"
 permalink: /testimonials/
 author_profile: true
 ---
+-----
+[Prof. Xiaozhen Wang](https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=xbw5192), Assistant Teaching Professor at the Pennsylvania State University
+
+I wholeheartedly recommend Denesh for opportunities. His proficiency with course design tools, exceptional lab presentations, commitment to evaluations and grading, ability to excel under pressure, and consistency in his work make him an outstanding candidate. I have no doubt that denesh will continue to excel in his academic and professional endeavors.
 
 -----
-[Prof. Lalit Jain](https://www.linkedin.com/in/lalit-jain-87ab9223/), Assistant Professor at the University of Washington
+[Prof. Oren Gall](https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=OZG1), Associate Teaching Professor at the Pennsylvania State University
 
-"Aayush was my TA this quarter for a machine learning course at the University of Washington. He was extremely helpful, took initiative, and was able to work very independently. He clearly has a large set of technical skills and know-how in data science/machine learning. I am happy to recommend him."
-
------
-[Prof. Summer Rae](https://www.linkedin.com/in/summerela/), Senior Machine Learning Engineer at Adaptive Biotechnologies Corp.
-
-"I am so grateful for Aayush's help as my TA this quarter. Not only was he always a step ahead on his work, but he also went out of his way to see what else he could do to help. His knowledge of python was impressive, he was very self-reliant and he even provided the students with great feedback and guidance. I would recommend him in heartbeat."
+"Denesh was my TA this quarter for the Digital Design course at PennState. He was extremely helpful, took initiative, and was able to work very independently. He clearly has a large set of technical skills and also creating lab presentation for course work. I am happy to recommend him."
 
 -----
-[Meet Paradia](https://www.linkedin.com/in/meet-paradia/), Graduate Student at the University of Texas at Dallas
+[Dr. Natarajamani S](https://www.amrita.edu/faculty/s-natarajamani/), Professor at Amrita College of Engineering
 
-"I have known Aayush for many years, he is a highly assiduous and detail oriented person who always strives for the best. He has demonstrated great leadership skills, patience and time management while dealing with challenging situations during various events that he managed with great proficiency. I highly recommend Aayush and believe that he has the ability to achieve whatever he sets his mind to."
+" He had very high grasping capacity and took part actively in all course activities and classroom discussions. He is very attentive student in class and also being on time with his submissions. I am part of the project review panel for final year ECE student, so this gave me an opportunity to review his presentation skills and his technical knowledge. A good example of this is when he presented a paper on Antenna Miniaturization which is his final year project. During his presentation, he proved not only his strong technical knowledge but also his communication skills. He has a curious mind and good interpretation ability that will greatly facilitate research work in your university. In addition, he has a great avidity for growing his knowledge by pursuing his graduate studies."
+
+Read more [here](https://github.com/deneshkumarmn/ds/blob/master/files/natrajmani_lor.pdf)
 
 -----
-[Nishad Joshi](https://www.linkedin.com/in/nishadjoshi230198/), Software Engineer at Thirdware Solutions
+[Prof. Vidya L](https://www.amrita.edu/faculty/l-vidhya/), Professor at Amrita College of Engineering
 
-"I have worked with Aayush at the institute level student body of KJ Somaiya College of Engineering from 2016 to 2018. Aayush worked as the Sports Secretary and played a very crucial role in managing the sporting activities of the entire college. He is a focused and goal-driven person who relies on a structured approach to get his work done. His leadership was on display when he led a team of over 150 students at our national level sports festival. Due to his multifaceted personality, we were also able to get numerous companies on-board for our events. His tenacity and zeal helped to raise the standards of all our events. He was always the go to person for all the junior members in the team and excelled in the role as a mentor. Aayush will be a valuable asset to any team he joins and I wish him the best for the future."
+"Denesh has consistently impressed me with his course work wherein he was able to correlate concepts of Control System with Linear Integrated Circuits. He has shown great dedication by venturing beyond the scope of the subject ideas. I have overseen a few of his term projects on Micro-Strip Antenna Design for Energy Harvest, Fever Detection System and Obstacle Avoidance Robot and observed his competence in practically applying theoretical concepts. He was among the top 5% students of his class. He is an attentive student and has strong critical thinking and analytical skills. He is a confident student with no hesitance to interact in class."
+
+Read more [here](https://github.com/deneshkumarmn/ds/blob/master/files/Prof.%20Vidhya_LOR_pdf.pdf)
+
+-----
+[Prof. Mekaladevi V](https://www.amrita.edu/faculty/v-mekaladevi/), Professor at Amrita College of Engineering
+
+"Through my observation, Denesh is a very sincere and diligent student with sufficient motivation been consistent in his studies. He is a very attentive student in class receptive to new ideas and took active participation in classroom activities. Denesh has also done Microcontroller Lab course under my guidance. During this session he has proved his ability to correlate theoretical classes with practical lab sessions and when he came across some challenges in design and coding he figured out the root cause and solved the same. He performed exemplarily well in his lab and has never been late with his submissions of assignments and record works."
+
+Read more [here](https://github.com/deneshkumarmn/ds/blob/master/files/prof.%20Mekaladevi.pdf)
 
 -----
