@@ -8,7 +8,7 @@ author_profile: true
 -----
 <img align="left" height="100" width="100" src="../images/malware_detection.jpg" style="padding-right:15px">
 
-**Business Intellegence Analyst, Walmart Weekly Sales Analysis and Prediction**
+**Business Analyst, Walmart Weekly Sales Analysis and Prediction**
 #### March 2020 - June 2020 | State college, USA
 
 -----
@@ -16,6 +16,18 @@ author_profile: true
 *	Analyzed holiday periods experience significant spikes in sales due to festivals and discounts. Predicted total revenue of a grocery store for the forthcoming months by applying FBProphet model on accrued time-series data <br>
 
 Here is the - [Github Repo](https://github.com/aayush1909/DGA-or-Benign)
+
+-----
+<img align="left" height="100" width="100" src="../images/grocery_store.jpg" style="padding-right:15px">
+
+**Team Lead, Grocery Retail Sales Analysis**
+#### May 2020 | Seattle, USA
+
+-----
+*	Analyzed various store trends and created dashboards using Tableau to understand categories and items the store can focus on
+*	Predicted total revenue of a grocery store for the forthcoming months by applying FBProphet model on accrued time-series data
+  
+Here is the - [Github Repo](https://github.com/aayush1909/Grocery-Retail-Sales-Analysis)
 
 -----
 <img align="left" height="100" width="100" src="../images/grocery_store.jpg" style="padding-right:15px">
@@ -57,3 +69,14 @@ Here is the - [Github Repo](https://github.com/aayush1909/Business-Intelligence-
 Here is the - [Github Repo](https://github.com/aayush1909/Fresh-or-Rotten)
 
 -----
+<img align="left" height="100" width="100" src="../images/sales.jpg" style="padding-right:15px">
+
+**Data Science, Detect Fraudelent Transaction**
+#### March 2020 - June 2020 | Pennsylvania, USA
+
+-----
+*	Developed an model to flag fraudelent crypto-currency transcaction 
+*	Implement K-Means and GMM with principle compound analysis and comparing the rand index <br>
+
+Here is the - [Github Repo](https://github.com/aayush1909/Business-Intelligence-Systems)
+
