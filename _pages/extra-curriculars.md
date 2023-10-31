@@ -25,7 +25,7 @@ author_profile: true
 -----
 * Organised Maze Runner Bot Challenge on behalf of Electronics department in Amrita – [Anokha 2019](https://www.amrita.edu/events/anokha-23/)
 * Acted as a liaison between administrative staff and the overall event organizing committee.
-* Saw an increase in the sponsor count from 16 to 25 and the number of participating team from 45 to 70 from the previous year.
+* Increased the sponsor count from 16 to 25 and the number of participating team from 45 to 70 from the previous year.
 * We managed to raise our profits by almost 15%. <br>
 
 -----
