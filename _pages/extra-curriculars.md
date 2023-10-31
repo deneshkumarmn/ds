@@ -41,13 +41,16 @@ author_profile: true
 * Spread awareness about health and sanitation by attending regular beach cleanups and by beautifying a railway station in Mumbai, India <br>
 
 -----
-<img align="left" height="100" width="100" src="../images/abhiyantriki.png" style="padding-right:15px">
+<img align="left" height="100" width="100" src="https://github.com/deneshkumarmn/ds/blob/master/images/nss.png" style="padding-right:15px">
 
-**Organizing Committee, KJSCE Abhiyantriki**
-#### June 2017 - Septmeber 2017 | Mumbai, India
+**NSS Special Camp, Amrita College of Engineering**
+#### June 2016 - Septmeber 2020 | Coimbatore, India
 
 -----
-* Hosted exhibits from Indian Space Research Organization (ISRO), Defence Research and Development Organization (DRDO) and Department of Atomic Energy (DAE) at the technical symposium of our college
-* Led the team of internship expo which saw a 200% increase in the number of companies hiring from the previous year <br>
-
+* Create avarness on importance of classifying waste and setting up waste management unit in neighboring village
+* Short videos on environmental issues, importance of schooling and demerits of school
+dropouts were screened to students and parents in nearby village
+* Encourage blood donation and perform eye checkup to under previlages community <br>
+[Report 1](https://intranet.cb.amrita.edu/sites/default/files/SPECIAL_CAMP_2016_2017_unit_2.pdf)
+[Report 2](https://intranet.cb.amrita.edu/sites/default/files/NSS_SPECIAL_CAMP_2020_REPORT_UNIT-2.pdf)
 -----
