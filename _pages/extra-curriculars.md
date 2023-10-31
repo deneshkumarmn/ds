@@ -48,9 +48,10 @@ author_profile: true
 
 -----
 * Creating avarness on importance of classifying waste and setting up waste management unit in neighboring village
+* Encouraged blood donation and perform eye checkup to under previlages community in Ettimadai district 
 * Created short videos on environmental issues, importance of schooling and demerits of school
-dropouts were screened to students and parents in nearby village
-* Encouraged blood donation and perform eye checkup to under previlages community in Ettimadai district <br>
+dropouts were screened to students and parents in nearby village <br>
+<br>
 [Report 1](https://intranet.cb.amrita.edu/sites/default/files/SPECIAL_CAMP_2016_2017_unit_2.pdf) <br>
 [Report 2](https://intranet.cb.amrita.edu/sites/default/files/NSS_SPECIAL_CAMP_2020_REPORT_UNIT-2.pdf)
 
