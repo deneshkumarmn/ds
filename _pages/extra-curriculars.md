@@ -8,7 +8,7 @@ author_profile: true
 -----
 <img align="left" height="100" width="100" src="../images/walmart.png" style="padding-right:15px">
 
-**Teaching Volunteer,U&I Trust**
+**Teaching Volunteer, U&I Trust**
 #### June 2019 - June 2020 | Tamil Nadu, India
 
 -----
@@ -17,7 +17,7 @@ author_profile: true
 * Part of an actively volunteering team, promoting the recruitment process for finding more volunteers who can extend their support in educating and becoming role models to underprivileged children who do not have enough resources and opportunities. <br>
 
 -----
-<img align="left" height="100" width="100" src="../images/skream.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/walmart.png" style="padding-right:15px">
 
 **Event Organiser, Anokha Tech Fest**
 #### Dec 2018 - March 2019 | Tamil Nadu, India
@@ -29,7 +29,7 @@ author_profile: true
 * We managed to raise our profits by almost 15%. <br>
 
 -----
-<img align="left" height="100" width="100" src="../images/parvaah.png" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/anokha.png" style="padding-right:15px">
 
 **Convener, Amrita College of Engineering**
 #### June 2018 - June 2019 | Tamil Nadu, India
@@ -39,7 +39,7 @@ author_profile: true
 * Spread awareness about health and sanitation by attending regular lake cleanups and by beautifying a railway station in Coimbatore, India. <br>
 
 -----
-<img align="left" height="100" width="100" src="https://github.com/deneshkumarmn/ds/blob/master/images/nss.png" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/nss.png" style="padding-right:15px">
 
 **NSS Special Camp, Amrita College of Engineering**
 #### June 2016 - Septmeber 2020 | Coimbatore, India
