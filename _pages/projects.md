@@ -30,7 +30,7 @@ Here is the - [Github Repo](https://github.com/aayush1909/DGA-or-Benign)
 Here is the - [Github Repo](https://github.com/aayush1909/Grocery-Retail-Sales-Analysis)
 
 -----
-<img align="left" height="100" width="100" src="../images/grocery_store.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/face.jpg" style="padding-right:15px">
 
 **Machine Learning, Attendance System**
 #### May 2020 | Pennsylvania, USA
@@ -44,7 +44,7 @@ Here is the - [Github Repo](https://github.com/aayush1909/Grocery-Retail-Sales-A
 Here is the - [Github Repo](https://github.com/aayush1909/Grocery-Retail-Sales-Analysis)
 
 -----
-<img align="left" height="100" width="100" src="../images/sales.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/credit.jpg" style="padding-right:15px">
 
 **Data Science, Credit Repayment Prediction**
 #### March 2020 - June 2020 | Pennsylvania, USA
@@ -57,7 +57,7 @@ Here is the - [Github Repo](https://github.com/aayush1909/Grocery-Retail-Sales-A
 Here is the - [Github Repo](https://github.com/aayush1909/Business-Intelligence-Systems)
 
 -----
-<img align="left" height="100" width="100" src="../images/Rotten.png" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/playstore.png" style="padding-right:15px">
 
 **Data Scientist, App Rating Prediction**
 #### February 2020 - March 2020 | Pennsylvania, USA
@@ -69,7 +69,7 @@ Here is the - [Github Repo](https://github.com/aayush1909/Business-Intelligence-
 Here is the - [Github Repo](https://github.com/aayush1909/Fresh-or-Rotten)
 
 -----
-<img align="left" height="100" width="100" src="../images/sales.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/coin.png" style="padding-right:15px">
 
 **Data Science, Detect Fraudelent Transaction**
 #### March 2020 - June 2020 | Pennsylvania, USA
