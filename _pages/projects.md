@@ -15,7 +15,7 @@ author_profile: true
 *	Analyzed Walmarts weekly sales data from 45 stores to gain insights into their sales performance and identify trends and patterns that could improve business optimization and strategic decisions
 *	Analyzed holiday periods experience significant spikes in sales due to festivals and discounts. Predicted total revenue of a grocery store for the forthcoming months by applying FBProphet model on accrued time-series data <br>
 
-Here is the - [Github Repo](https://github.com/aayush1909/DGA-or-Benign)
+Here is the - [Github Repo](https://github.com/deneshkumarmn/Walmart-Salse-Analysis)
 
 -----
 <img align="left" height="100" width="100" src="../images/grocery_store.jpg" style="padding-right:15px">
@@ -27,7 +27,7 @@ Here is the - [Github Repo](https://github.com/aayush1909/DGA-or-Benign)
 *	Analyzed various store trends and created dashboards using Tableau to understand categories and items the store can focus on
 *	Predicted total revenue of a grocery store for the forthcoming months by applying FBProphet model on accrued time-series data
   
-Here is the - [Github Repo](https://github.com/aayush1909/Grocery-Retail-Sales-Analysis)
+Here is the - [Github Repo](https://github.com/deneshkumarmn/Grocery-Retail-Sales-Analysis)
 
 -----
 <img align="left" height="100" width="100" src="../images/face.png" style="padding-right:15px">
@@ -41,7 +41,7 @@ Here is the - [Github Repo](https://github.com/aayush1909/Grocery-Retail-Sales-A
 *	The face detection will be initialized and after detection process the face embedding of the detected person is generated. 
 *	The ArcFace, Additive angular margin loss for deep face recognition is used to obtain highly discriminative features for face recognition.
 
-Here is the - [Github Repo](https://github.com/aayush1909/Grocery-Retail-Sales-Analysis)
+Here is the - [Github Repo](https://github.com/deneshkumarmn/Vision-Based-Attendance-System)
 
 -----
 <img align="left" height="100" width="100" src="../images/credit.jpg" style="padding-right:15px">
@@ -54,7 +54,7 @@ Here is the - [Github Repo](https://github.com/aayush1909/Grocery-Retail-Sales-A
 *	Implement EDA to understand statistic of customers repaying paying credit dept
 *	Tuned the model’s hyperparameters using K-Fold Cross Validation to attain an accuracy of 98.03% <br>
 
-Here is the - [Github Repo](https://github.com/aayush1909/Business-Intelligence-Systems)
+Here is the - [Github Repo](https://github.com/deneshkumarmn/Credit-Repayment-Prediction)
 
 -----
 <img align="left" height="100" width="100" src="../images/playstore.png" style="padding-right:15px">
@@ -66,7 +66,7 @@ Here is the - [Github Repo](https://github.com/aayush1909/Business-Intelligence-
 *	Developed a Google Apps rating predictor using machine learning algorithms with the best performing error rate of 0.13
 *	Evaluated the performance using Root Mean Squared Error, R-squared error, Residual Standard Error and Mean Absolute Error  <br>
 
-Here is the - [Github Repo](https://github.com/aayush1909/Fresh-or-Rotten)
+Here is the - [Github Repo](https://github.com/deneshkumarmn/App-Rating-Prediction)
 
 -----
 <img align="left" height="100" width="100" src="../images/coin.png" style="padding-right:15px">
@@ -78,5 +78,5 @@ Here is the - [Github Repo](https://github.com/aayush1909/Fresh-or-Rotten)
 *	Developed an unsupervised machine learning model to flag fraudelent crypto-currency transcactions 
 *	Implement K-Means and GMM with principle compound analysis and comparing the Rand Index finding best cluster for the classification <br>
 
-Here is the - [Github Repo](https://github.com/aayush1909/Business-Intelligence-Systems)
+Here is the - [Github Repo](https://github.com/deneshkumarmn/Detect-Fraudelent-Transaction)
 
