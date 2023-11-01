@@ -30,7 +30,7 @@ Here is the - [Github Repo](https://github.com/aayush1909/DGA-or-Benign)
 Here is the - [Github Repo](https://github.com/aayush1909/Grocery-Retail-Sales-Analysis)
 
 -----
-<img align="left" height="100" width="100" src="../images/face.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/face.png" style="padding-right:15px">
 
 **Machine Learning, Attendance System**
 #### May 2020 | Pennsylvania, USA
