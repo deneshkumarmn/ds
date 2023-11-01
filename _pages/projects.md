@@ -69,6 +69,18 @@ Here is the - [Github Repo](https://github.com/deneshkumarmn/Credit-Repayment-Pr
 Here is the - [Github Repo](https://github.com/deneshkumarmn/App-Rating-Prediction)
 
 -----
+<img align="left" height="100" width="100" src="../images/fifa.png" style="padding-right:15px">
+
+**Data Analyst, FIFA ‘20 Analysis**
+#### March 2020 - June 2020 | Pennsylvania, USA
+
+-----
+*	Analyzed the data to see the 20 most competitive clubs in the world and the best suited ones for young players to grow
+*	Applied Recursive Feature Elimination, Lasso and Ridge Regression to see the potential of players with an accuracy of 84% <br>
+
+Here is the - [Github Repo](https://github.com/deneshkumarmn/FIFA-20-Analysis)
+
+-----
 <img align="left" height="100" width="100" src="../images/coin.png" style="padding-right:15px">
 
 **Data Science, Detect Fraudelent Transaction**
