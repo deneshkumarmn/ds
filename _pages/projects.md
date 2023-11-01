@@ -76,7 +76,7 @@ Here is the - [Github Repo](https://github.com/aayush1909/Fresh-or-Rotten)
 
 -----
 *	Developed an unsupervised machine learning model to flag fraudelent crypto-currency transcactions 
-*	Implement K-Means and GMM with principle compound analysis and comparing the Rand Index finding best cluster for the dataset <br>
+*	Implement K-Means and GMM with principle compound analysis and comparing the Rand Index finding best cluster for the classification <br>
 
 Here is the - [Github Repo](https://github.com/aayush1909/Business-Intelligence-Systems)
 
