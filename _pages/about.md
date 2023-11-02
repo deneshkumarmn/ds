@@ -73,7 +73,7 @@ found out that XGBoost Algorithm performed the best.
 framework.
 
 -----
-<img align="left" height="100" width="100" src="http://deneshkumarmn.github.io/ds/images/omdena.png" style="padding-right:15px">
+<img align="left" height="100" width="100" src="http://deneshkumarmn.github.io/ds/images/omdena.jpg" style="padding-right:15px">
 
 **Data Aanlyst, [Omdena](https://omdena.com/)** 
 #### Feb 2022 - July 2022 | Remote, US
@@ -84,7 +84,7 @@ framework.
 * Used Feature Engineering to improve the adjusted R-Squared Score from 0.72 to 0.87.
 
 -----
-<img align="left" height="100" width="100" src="http://deneshkumarmn.github.io/ds/images/omdena.png" style="padding-right:15px">
+<img align="left" height="100" width="100" src="http://deneshkumarmn.github.io/ds/images/omdena.jpg" style="padding-right:15px">
 
 **Data Scientist, [Omdena](https://omdena.com/)** 
 #### Feb 2021 - July 2021 | Remote, US
