@@ -57,7 +57,7 @@ APIs and extracting transactional data on-the-fly, guaranteeing accurate and up-
 deployments of data pipelines, and ensuring easy scalability and manageability.
 
 -----
-<img align="left" height="100" width="100" src="http://deneshkumarmn.github.io/ds/images/omdena.png" style="padding-right:15px">
+<img align="left" height="100" width="100" src="http://deneshkumarmn.github.io/ds/images/omdena.jpg" style="padding-right:15px">
 
 **Data Scientist, [Omdena](https://omdena.com/)**
 #### May 2022 - Sep 2022 | Remote, US
