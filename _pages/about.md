@@ -75,7 +75,7 @@ framework.
 -----
 <img align="left" height="100" width="100" src="http://deneshkumarmn.github.io/ds/images/omdena.jpg" style="padding-right:15px">
 
-**Data Aanlyst, [Omdena](https://omdena.com/)** 
+**Data Analyst, [Omdena](https://omdena.com/)** 
 #### Feb 2022 - July 2022 | Remote, US
 -----
 *	Used MySQL Database for data storage and built KPI dashboard in Power BI to perform in-depth analysis of Clients revenue insights.
@@ -86,24 +86,23 @@ framework.
 -----
 <img align="left" height="100" width="100" src="http://deneshkumarmn.github.io/ds/images/omdena.jpg" style="padding-right:15px">
 
-**Data Scientist, [Omdena](https://omdena.com/)** 
+**Data Analyst, [Omdena](https://omdena.com/)** 
 #### Feb 2021 - July 2021 | Remote, US
 -----
-*	Used QGIS software to perform in-depth analysis and processing of Sentinel 2 data.
-*	Stored all the raw data in AWS S3 and after transformation shifted the data into AWS Redshift for different use
-cases.Created datasets in image format and csv format.
-* Built Machine Learning models using the csv format and Computer Vision models using image format for farming habit
-at classification for classifying commercial crops and peripheral habitats on farm that can be used by food industry bodies to contextualize on-farm data that is self-reported by farmers.
+*	Collected data from multiple sources like API endpoints and MS SQL server and stored it in AWS Data Lake
+*	Built ETL pipeline with AWS Data Pipeline and lambda functions for data cleansing, transformation, and data validation
+* Stored the transformed data in Redshift for analysis and created a Power BI dashboard using customer profitability template
+* Used machine learning algorithms to predict the authenticity of insurance claims with 96% accuracy with F1 score as metric
 <br>
 
 # Key Skills
 ----
-* <strong> Programming Languages: </strong> Python, R, Scala, C, C++ <br>
-* <strong> Libraries: </strong> PyTorch, Tensorflow, Keras, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Statsmodel, NLTK, ggplot <br>
-* <strong> Databases: </strong> MySQL, PostreSQL, MongoDB, SAS <br>
-* <strong> Visualization Tools: </strong> Tableau, PowerBI, Qlikview <br>
-* <strong> Modeling: </strong> Linear Regression, Logistic Regression, SVM, Decision Trees, Random Forests, Bagging, Boosting, K-means, KNN, Latent Dirichlet Allocation, Sentiment Analysis, Lasso Regression, Ridge Regression, Naive Bayes, Deep Neural Networks, Convolutional Neural Networks, ARIMA, SARIMA <br>
-* <strong> Tools: </strong> AWS - Redshift, Lambda, SageMaker, Glue, EC2, S3, Azure Databricks, Jira, Git, MS Excel <br>
-* <strong> Deployment: </strong> Heroku, Streamlit, Tensorflow ext <br>
+* <strong> Programming Languages: </strong> Python, C++, Matlab, Shell Scripting, SQL, PL/SQL <br>
+* <strong> Libraries & Framework: </strong> Scikit-learn, TensorFlow, Pytorch, OpenCV, Keras, Pandas, NumPy <br>
+* <strong> Databases: </strong> PostgreSQL, MySQL, MS SQL Server, DynamoDB, MongoDB <br>
+* <strong> Machine Learning: </strong> Exploratory Data Analysis, Regression, Classification, Clustering, LLM, Generative AI <br>
+* <strong> Tools: </strong> Google Cloud, Azure Data Factory, Kafka, PySpark, Git, Postman, Docker, Kubernetes, AWS CloudFormation <br>
+* <strong> AWS Tools: </strong> IAM, Lambda, Glue, SageMaker, S3, RedShift, EC2, EMR, Kinesis, Step Functions, CloudWatch <br>
+* <strong> Visualization Tools: </strong> PowerBI, Tableau, QuickSight, Excel Charts, Seaborn, Matplotlib <br>
 
 ----
