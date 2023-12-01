@@ -6,10 +6,23 @@ author_profile: true
 ---
 
 -----
+<img align="left" height="100" width="100" src="../images/stock.jpg" style="padding-right:15px">
+
+**Stock Market Data Analysis using AWS**
+#### Pennsylvania, USA
+
+-----
+*	Obtained NYSE stock market data using Yahoo! Finance API and simulated a real-time data stream using Python
+*	Captured the simulated real-time data using Kafka clusters and stored the data in S3 buckets using Lambda functions
+*	Created materialized views to visualize the stock trends and compare prices of different stocks using AWS QuickSight
+*	Implemented Random Forest and XGBoost regression models using AWS SageMaker to forecast stock information
+*	Performed Feature selection and Hyper parameter tuning to improve the accuracy of the model by 20%
+
+-----
 <img align="left" height="100" width="100" src="../images/walmart.png" style="padding-right:15px">
 
 **Business Analyst, Walmart Weekly Sales Analysis and Prediction**
-#### March 2020 - June 2020 | Pennsylvania, USA
+#### Pennsylvania, USA
 
 -----
 *	Analyzed Walmarts weekly sales data from 45 stores to gain insights into their sales performance and identify trends and patterns that could improve business optimization and strategic decisions
@@ -21,7 +34,7 @@ Here is the - [Github Repo](https://github.com/deneshkumarmn/Walmart-Salse-Analy
 <img align="left" height="100" width="100" src="../images/grocery_store.jpg" style="padding-right:15px">
 
 **Team Lead, Grocery Retail Sales Analysis**
-#### May 2020 | Pennsylvania, USA
+#### Pennsylvania, USA
 
 -----
 *	Analyzed various store trends and created dashboards using Tableau to understand categories and items the store can focus on
@@ -33,7 +46,7 @@ Here is the - [Github Repo](https://github.com/deneshkumarmn/Grocery-Retail-Sale
 <img align="left" height="100" width="100" src="../images/face.png" style="padding-right:15px">
 
 **Machine Learning, Attendance System**
-#### May 2020 | Pennsylvania, USA
+#### Pennsylvania, USA
 
 -----
 * This is a vision bases attendance system which detects and recognises peoples presence and marks their attendance. 
@@ -47,7 +60,7 @@ Here is the - [Github Repo](https://github.com/deneshkumarmn/Vision-Based-Attend
 <img align="left" height="100" width="100" src="../images/credit.jpg" style="padding-right:15px">
 
 **Data Science, Credit Repayment Prediction**
-#### March 2020 - June 2020 | Pennsylvania, USA
+#### Pennsylvania, USA
 
 -----
 *	Developing a classification model to determine if the customer of the bank will be able to pay his credit on time
@@ -60,7 +73,7 @@ Here is the - [Github Repo](https://github.com/deneshkumarmn/Credit-Repayment-Pr
 <img align="left" height="100" width="100" src="../images/playstore.png" style="padding-right:15px">
 
 **Data Scientist, App Rating Prediction**
-#### February 2020 - March 2020 | Pennsylvania, USA
+#### Pennsylvania, USA
 
 -----
 *	Developed a Google Apps rating predictor using machine learning algorithms with the best performing error rate of 0.13
@@ -72,7 +85,7 @@ Here is the - [Github Repo](https://github.com/deneshkumarmn/App-Rating-Predicti
 <img align="left" height="100" width="100" src="../images/fifa.png" style="padding-right:15px">
 
 **Data Analyst, FIFA ‘20 Analysis**
-#### March 2020 - June 2020 | Pennsylvania, USA
+#### Pennsylvania, USA
 
 -----
 *	Analyzed the data to see the 20 most competitive clubs in the world and the best suited ones for young players to grow
@@ -84,7 +97,7 @@ Here is the - [Github Repo](https://github.com/deneshkumarmn/FIFA-20-Analysis)
 <img align="left" height="100" width="100" src="../images/coin.png" style="padding-right:15px">
 
 **Data Science, Detect Fraudelent Transaction**
-#### March 2020 - June 2020 | Pennsylvania, USA
+#### Pennsylvania, USA
 
 -----
 *	Developed an unsupervised machine learning model to flag fraudelent crypto-currency transcactions 
