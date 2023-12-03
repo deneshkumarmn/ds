@@ -44,7 +44,7 @@ I completed my Undergraduate Degree in Electronics and Communication Engineering
 -----
 <img align="left" height="100" width="100" src="http://deneshkumarmn.github.io/ds/images/onebit.png" style="padding-right:15px">
 
-**Data Scientist, [ONEBIT](https://onebitapp.com/)** 
+**Data Engineer, [ONEBIT](https://onebitapp.com/)** 
 #### June 2023 - Nov 2023 | Chicago, US
 ----- 
 *	Implemented AWS Glue for automated data ingestion, transformation, and ETL (Extract, Transform, Load) processes, ensuring efficient data processing and integration from various sources, including bank transactions, invoices, and
@@ -60,46 +60,44 @@ deployments of data pipelines, and ensuring easy scalability and manageability.
 <img align="left" height="100" width="100" src="http://deneshkumarmn.github.io/ds/images/omdena.jpg" style="padding-right:15px">
 
 **Data Scientist, [Omdena](https://omdena.com/)**
+#### Jan 2023 - Apr 2023 | Remote, US
+-----
+*	Used Google PaLM 2 Bison model from LangChain framework with few short learning that converts complex text statement
+to SQL query
+*	Converted few short learning data into embedding vectors using Hugging Face library stored in ChromaDB vector database
+*	Designed an UI interface for application deployment using Streamlit framework
+* Decrease labor cost for analysis and increases efficiency of the business by automating data analysis
+
+-----
+<img align="left" height="100" width="100" src="http://deneshkumarmn.github.io/ds/images/omdena.jpg" style="padding-right:15px">
+
+**Data Scientist, [Omdena](https://omdena.com/)** 
 #### May 2022 - Sep 2022 | Remote, US
 -----
-*	Collected data from various sources such as REST API, MySQL server and stored it in AWS S3 Data Lake.
-*	Built ETL pipeline with the help of AWS Glue and used AWS EC2 to cleanse, mask and transform raw data into the
-canonical form.
-*	Stored various transformed databases in AWS Redshift for analysis. Used Qlik Sense to create dashboard and improved
-business profit by 18%.
-* Used clustering models to cluster into several groups. Used several Machine Learning Algorithms for each cluster and
-found out that XGBoost Algorithm performed the best.
-* F1 score was the metric used to evaluate the algorithm performance and the project was deployed using Streamlit
-framework.
+*	Built ETL pipeline with AWS Glue and used AWS EC2 to clean and transform raw data into the canonical form
+*	Stored transformed databases in AWS Redshift for analysis. Used QlikSense to create dashboard for Key performance
+indicators (KPIs) and improved business profit by 18%
+* Used Kmeans clustering to cluster data into several groups and use Machine Learning Algorithms for each cluster and
+XGBoost Algorithm performed the best classification
 
 -----
-<img align="left" height="100" width="100" src="http://deneshkumarmn.github.io/ds/images/omdena.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="http://deneshkumarmn.github.io/ds/images/bhel.jpg" style="padding-right:15px">
 
-**Data Analyst, [Omdena](https://omdena.com/)** 
-#### Feb 2022 - July 2022 | Remote, US
+**DataWarehouse Engineer, [Bharath Heavy Electronics Ltd.,](Bharath Heavy Electronics Ltd.,)** 
+#### Mar 2020 - Feb 2021 | India
 -----
-*	Used MySQL Database for data storage and built KPI dashboard in Power BI to perform in-depth analysis of Clients revenue insights.
-*	Helped in regaining their market share and revenue by 15% in the next quarter.
-* Used Machine Learning to forecast the revenue insights of the company.
-* Used Feature Engineering to improve the adjusted R-Squared Score from 0.72 to 0.87.
-
------
-<img align="left" height="100" width="100" src="http://deneshkumarmn.github.io/ds/images/omdena.jpg" style="padding-right:15px">
-
-**Data Analyst, [Omdena](https://omdena.com/)** 
-#### Feb 2021 - July 2021 | Remote, US
------
-*	Collected data from multiple sources like API endpoints and MS SQL server and stored it in AWS Data Lake
-*	Built ETL pipeline with AWS Data Pipeline and lambda functions for data cleansing, transformation, and data validation
-* Stored the transformed data in Redshift for analysis and created a Power BI dashboard using customer profitability template
-* Used machine learning algorithms to predict the authenticity of insurance claims with 96% accuracy with F1 score as metric
+*	Migrated the company’s old data analytics solution to AWS cloud to support the existing recommendation engines
+*	Deployed Data Pipelines using Spark on EMR clusters to load 60 TB of data from the Transactional, and Payroll to Redshift
+* Denormalized 3NF data from AWS RDS to Redshift using Kimball model and used Athena for data analysis and validation
+* Implemented data governance practices and established data quality checks to ensure the accuracy and reliability of the data
+* Data migration to AWS helped reduce storage size by 50% and overall spending on Machine Learning and Analytics by 60%
 <br>
 
 # Key Skills
 ----
 * <strong> Programming Languages: </strong> Python, C++, Matlab, Shell Scripting, SQL, PL/SQL <br>
 * <strong> Libraries & Framework: </strong> Scikit-learn, TensorFlow, Pytorch, OpenCV, Keras, Pandas, NumPy <br>
-* <strong> Databases: </strong> PostgreSQL, MySQL, MS SQL Server, DynamoDB, MongoDB <br>
+* <strong> Databases: </strong> PostgreSQL, MySQL, MS SQL Server, DynamoDB, MongoDB, ChromaDB <br>
 * <strong> Machine Learning: </strong> Exploratory Data Analysis, Regression, Classification, Clustering, LLM, Generative AI <br>
 * <strong> Tools: </strong> Google Cloud, Azure Data Factory, Kafka, PySpark, Git, Postman, Docker, Kubernetes, AWS CloudFormation <br>
 * <strong> AWS Tools: </strong> IAM, Lambda, Glue, SageMaker, S3, RedShift, EC2, EMR, Kinesis, Step Functions, CloudWatch <br>
