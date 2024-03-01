@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hey, thanks for visiting my website. I’m Denesh - a recent (2023) graduate from the Pennsylvania State University. Data Scientist with two year of experience executing data-driven solution to increase efficiency, accuracy, and utility of internal data processing. Experienced at creating data regression models, and using predictive data modeling to deliver insights and implement action-oriented solution to complex industrial problems.
+Hey, thanks for visiting my website. I’m Denesh - a recent (2023) graduate from the Pennsylvania State University. Data Enthusiast with two year of experience executing data-driven solution to increase efficiency, accuracy, and utility of internal data processing. Experienced at designing data warehouse, data pipeline and data orchestration using cloud services, and using predictive data modeling to deliver insights and implement action-oriented solution to complex industrial problems.
 
-I hold a Master's degree in Data Science and stay committed to continuous learning, staying updated with the latest trends in AI and data science. I’m super enthusiastic about learning new technologies and how these can be best used in my job! I often gravitate towards project making me think out of the box and am always up for any new and exciting opportunities coming my way.
+I hold a Master's degree specializing in Data Science and stay committed to continuous learning, staying updated with the latest trends in data profession. I’m super enthusiastic about learning new technologies and how these can be best used in my job! I often gravitate towards project making me think out of the box and am always up for any new and exciting opportunities coming my way.
 
-Oh, and also, I’m a HUGE cricket fan also I love white water kayaking and Ice climbing. I have recently summit mount Algonquin Peak (Second largest peak in east cost). Hit me up if you want to talk sports, adventure, machine learning, data science, or anything fun in life! :) 
+Oh, and also, I’m a HUGE cricket fan also I love white water kayaking and Ice climbing. I have recently summit mount Algonquin Peak (Second largest peak in east cost). Hit me up if you want to talk sports, adventure, machine learning, data engineering, or anything fun in life! :) 
 <br> <br>
 # Education
 -----
@@ -45,62 +45,58 @@ I completed my Undergraduate Degree in Electronics and Communication Engineering
 <img align="left" height="100" width="100" src="http://deneshkumarmn.github.io/ds/images/onebit.png" style="padding-right:15px">
 
 **Data Engineer, [ONEBIT](https://onebitapp.com/)** 
-#### June 2023 - Nov 2023 | Chicago, US
+#### Remote, US
 ----- 
-*	Implemented AWS Glue for automated data ingestion, transformation, and ETL (Extract, Transform, Load) processes, ensuring efficient data processing and integration from various sources, including bank transactions, invoices, and
-expense receipts from S3 bucket.
-*	Utilized AWS warehouse for storing and managing large volumes of financial data from various sources such as bank
-transactions, invoices, and expense receipts. Utilizing its cloud-native architecture and elastic scalability to efficiently store, organize, and analyze financial data.
-*	Leveraged AWS Lambda to develop real-time data integration solutions, securely connecting with financial institution’s
-APIs and extracting transactional data on-the-fly, guaranteeing accurate and up-to-date financial information.
-*	Employed AWS CloudFormation to automate the infrastructure provisioning process, enabling repeatable and consistent
-deployments of data pipelines, and ensuring easy scalability and manageability.
+*	Developed a python script to transfer data, REST API’s and extract data from on-premises to AWS S3
+*	Developing complex SQL scripts to transform the source data to fit into a fact dimensional model including implementation
+of star schema, snowflake schema
+*	Leveraged AWS Lambda to develop real-time data integration solutions, securely connecting with financial institution’s APIs
+and extracting transactional data on-the-fly, guaranteeing accurate and up-to-date financial information
+*	Implemented AWS Glue with Spark cluster for scalable ETL processes, ensuring efficient data transformation and cleansing
+*	Experienced in using Spark Data frames, Spark SQL, Spark MLLib for developing, analyzing and designing ML model
+*	Use AWS SageMaker for data normalization, feature engineering and optimize hyperparameter to improve Machine Learning
+model performance
+*	Worked in designing interactive dashboards, reports, performing ad-hoc analysis, and visualizations using PowerBI
 
 -----
 <img align="left" height="100" width="100" src="http://deneshkumarmn.github.io/ds/images/omdena.jpg" style="padding-right:15px">
 
-**Data Scientist, [Omdena](https://omdena.com/)**
-#### Jan 2023 - Apr 2023 | Remote, US
+**Data Analyst/Scientist, [Omdena](https://omdena.com/)** 
+#### Remote, US
 -----
-*	Used Google PaLM 2 Bison model from LangChain framework with few short learning that converts complex text statement
-to SQL query
-*	Converted few short learning data into embedding vectors using Hugging Face library stored in ChromaDB vector database
-*	Designed an UI interface for application deployment using Streamlit framework
-* Decrease labor cost for analysis and increases efficiency of the business by automating data analysis
-
------
-<img align="left" height="100" width="100" src="http://deneshkumarmn.github.io/ds/images/omdena.jpg" style="padding-right:15px">
-
-**Data Scientist, [Omdena](https://omdena.com/)** 
-#### May 2022 - Sep 2022 | Remote, US
------
-*	Built ETL pipeline with AWS Glue and used AWS EC2 to clean and transform raw data into the canonical form
-*	Stored transformed databases in AWS Redshift for analysis. Used QlikSense to create dashboard for Key performance
-indicators (KPIs) and improved business profit by 18%
-* Used Kmeans clustering to cluster data into several groups and use Machine Learning Algorithms for each cluster and
-XGBoost Algorithm performed the best classification
+*	Stored extensive telematic data from vehicles in Azure Blob Storage, Use Azure Synapse to perform thorough data cleaning
+and transformation
+*	Applied K-means clustering to group data into distinct clusters. Segmented data for more targeted and effective machine
+learning model training
+* Explored various machine learning algorithms for each cluster. Identified XGBoost algorithm as the most effective for
+classification within clusters
+* Create an interactive PowerBI map dashboard reporting companies up-to-date user information
 
 -----
 <img align="left" height="100" width="100" src="http://deneshkumarmn.github.io/ds/images/bhel.jpg" style="padding-right:15px">
 
-**DataWarehouse Engineer, [Bharath Heavy Electronics Ltd.,](Bharath Heavy Electronics Ltd.,)** 
-#### Mar 2020 - Feb 2021 | India
+**Data Analyst, [Bharath Heavy Electronics Ltd.,](Bharath Heavy Electronics Ltd.,)** 
+#### India
 -----
-*	Migrated the company’s old data analytics solution to AWS cloud to support the existing recommendation engines
-*	Deployed Data Pipelines using Spark on EMR clusters to load 60 TB of data from the Transactional, and Payroll to Redshift
-* Denormalized 3NF data from AWS RDS to Redshift using Kimball model and used Athena for data analysis and validation
-* Implemented data governance practices and established data quality checks to ensure the accuracy and reliability of the data
-* Data migration to AWS helped reduce storage size by 50% and overall spending on Machine Learning and Analytics by 60%
+*	Participated in all phases of data mining, data cleaning, data collection, developing models, Validation, Visualization, and
+Performed Gap analysis
+* Writing complex SQL queries for checking the counts and for validating the data at field level (Oracle, DB2, Teradata)
+* Developed triggers, stored procedures, functions, and packages using cursors and ref cursor concepts associated with the project
+using PL SQL
+* Used Python for exploratory data analysis and build enhanced machine learning models which helped in reduction of False-
+Positives, which led to an increase in overall revenue and customer satisfaction
+* Worked with Infrastructure team and projected the Bi Reporting growth on Tableau by analyzing the usage, capacity planning
+of the machineries
 <br>
 
 # Key Skills
 ----
-* <strong> Programming Languages: </strong> Python, C++, Matlab, Shell Scripting, SQL, PL/SQL <br>
+* <strong> Programming Languages: </strong>  Python, Scala, Java, R, Shell Scripting <br>
 * <strong> Libraries & Framework: </strong> Scikit-learn, TensorFlow, Pytorch, OpenCV, Keras, Pandas, NumPy <br>
-* <strong> Databases: </strong> PostgreSQL, MySQL, MS SQL Server, DynamoDB, MongoDB, ChromaDB <br>
+* <strong> Databases: </strong> MySQL, Oracle, Teradata, MS SQL SERVER, DB2 <br>
 * <strong> Machine Learning: </strong> Exploratory Data Analysis, Regression, Classification, Clustering, LLM, Generative AI <br>
-* <strong> Tools: </strong> Google Cloud, Azure Data Factory, Kafka, PySpark, Git, Postman, Docker, Kubernetes, AWS CloudFormation <br>
+* <strong> Tools: </strong> Google Cloud, Azure Data Factory, Kafka, Spark, Git, AWS CloudFormation <br>
 * <strong> AWS Tools: </strong> IAM, Lambda, Glue, SageMaker, S3, RedShift, EC2, EMR, Kinesis, Step Functions, CloudWatch <br>
-* <strong> Visualization Tools: </strong> PowerBI, Tableau, QuickSight, Excel Charts, Seaborn, Matplotlib <br>
+* <strong> Visualization Tools: </strong>  PowerBI, Tableau, SSIS, SSRS, Informatica, Excel (Chart, Filter, PivotTables, VLOOKUP) <br>
 
 ----
