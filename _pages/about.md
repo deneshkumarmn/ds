@@ -11,7 +11,7 @@ Hey, thanks for visiting my website. I’m Denesh - a recent (2023) graduate fro
 
 I hold a Master's degree specializing in Data Science and stay committed to continuous learning, staying updated with the latest trends in data profession. I’m super enthusiastic about learning new technologies and how these can be best used in my job! I often gravitate towards project making me think out of the box and am always up for any new and exciting opportunities coming my way.
 
-Oh, and also, I’m a HUGE cricket fan also I love white water kayaking and Ice climbing. I have recently summit mount Algonquin Peak (Second largest peak in east cost). Hit me up if you want to talk sports, adventure, machine learning, data engineering, or anything fun in life! :) 
+Oh, and also, I love playing chess also I love white water kayaking and Ice climbing. I have recently summit mount Algonquin Peak (Second largest peak in east cost). Hit me up if you want to talk sports, adventure, machine learning, data engineering, or anything fun in life! :) 
 <br> <br>
 # Education
 -----
@@ -42,10 +42,10 @@ I completed my Undergraduate Degree in Electronics and Communication Engineering
 <br>
 # Experience
 -----
-<img align="left" height="100" width="100" src="http://deneshkumarmn.github.io/ds/images/onebit.png" style="padding-right:15px">
+<img align="left" height="100" width="100" src="http://deneshkumarmn.github.io/ds/images/pennstate.png" style="padding-right:15px">
 
-**Data Engineer, [ONEBIT](https://onebitapp.com/)** 
-#### Remote, US
+**Data Engineer, [Pennsylvania State University](https://www.psu.edu/)** 
+#### US
 ----- 
 *	Developed a python script to transfer data, REST API’s and extract data from on-premises to AWS S3
 *	Developing complex SQL scripts to transform the source data to fit into a fact dimensional model including implementation
@@ -61,7 +61,7 @@ model performance
 -----
 <img align="left" height="100" width="100" src="http://deneshkumarmn.github.io/ds/images/omdena.jpg" style="padding-right:15px">
 
-**Data Analyst/Scientist, [Omdena](https://omdena.com/)** 
+**Data Engineer, [Omdena](https://omdena.com/)** 
 #### Remote, US
 -----
 *	Stored extensive telematic data from vehicles in Azure Blob Storage, Use Azure Synapse to perform thorough data cleaning
@@ -75,28 +75,27 @@ classification within clusters
 -----
 <img align="left" height="100" width="100" src="http://deneshkumarmn.github.io/ds/images/bhel.jpg" style="padding-right:15px">
 
-**Data Analyst, [Bharath Heavy Electronics Ltd.,](Bharath Heavy Electronics Ltd.,)** 
+**Machine Learning Engineer, [Onebitapp](https://onebitapp.com)** 
 #### India
 -----
 *	Participated in all phases of data mining, data cleaning, data collection, developing models, Validation, Visualization, and
 Performed Gap analysis
-* Writing complex SQL queries for checking the counts and for validating the data at field level (Oracle, DB2, Teradata)
-* Developed triggers, stored procedures, functions, and packages using cursors and ref cursor concepts associated with the project
-using PL SQL
-* Used Python for exploratory data analysis and build enhanced machine learning models which helped in reduction of False-
-Positives, which led to an increase in overall revenue and customer satisfaction
-* Worked with Infrastructure team and projected the Bi Reporting growth on Tableau by analyzing the usage, capacity planning
-of the machineries
+* Developed a machine learning system that predicted purchase probability at a particular offer based on customer’s real time
+location data and past purchase behavior
+* Performed feature engineering and exploratory data analysis (EDA) using Python libraries like pandas and NumPy to enhance
+model accuracy and performance
+* Optimized model performance by implementing cross-validation techniques, reducing overfitting, and improving generalization
+to unseen data
 <br>
 
 # Key Skills
 ----
-* <strong> Programming Languages: </strong>  Python, Scala, Java, R, Shell Scripting <br>
+* <strong> Programming Languages: </strong>  Python, SQL, R, Java <br>
 * <strong> Libraries & Framework: </strong> Scikit-learn, TensorFlow, Pytorch, OpenCV, Keras, Pandas, NumPy <br>
-* <strong> Databases: </strong> MySQL, Oracle, Teradata, MS SQL SERVER, DB2 <br>
+* <strong> Databases: </strong> MySQL, Oracle, Teradata, MS SQL SERVER <br>
 * <strong> Machine Learning: </strong> Exploratory Data Analysis, Regression, Classification, Clustering, LLM, Generative AI <br>
 * <strong> Tools: </strong> Google Cloud, Azure Data Factory, Kafka, Spark, Git, AWS CloudFormation <br>
 * <strong> AWS Tools: </strong> IAM, Lambda, Glue, SageMaker, S3, RedShift, EC2, EMR, Kinesis, Step Functions, CloudWatch <br>
-* <strong> Visualization Tools: </strong>  PowerBI, Tableau, SSIS, SSRS, Informatica, Excel (Chart, Filter, PivotTables, VLOOKUP) <br>
+* <strong> Visualization Tools: </strong>  PowerBI, Tableau, Informatica, Excel (Chart, Filter, PivotTables, VLOOKUP) <br>
 
 ----
