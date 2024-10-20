@@ -62,7 +62,7 @@ model performance
 <img align="left" height="100" width="100" src="http://deneshkumarmn.github.io/ds/images/omdena.jpg" style="padding-right:15px">
 
 **Data Engineer, [Omdena](https://omdena.com/)** 
-#### Remote, US
+#### US (Internship)
 -----
 *	Stored extensive telematic data from vehicles in Azure Blob Storage, Use Azure Synapse to perform thorough data cleaning
 and transformation
@@ -76,7 +76,7 @@ classification within clusters
 <img align="left" height="100" width="100" src="http://deneshkumarmn.github.io/ds/images/onebit.png" style="padding-right:15px">
 
 **Machine Learning Engineer, [Onebitapp](https://onebitapp.com)** 
-#### India
+#### US (Internship)
 -----
 *	Participated in all phases of data mining, data cleaning, data collection, developing models, Validation, Visualization, and
 Performed Gap analysis
