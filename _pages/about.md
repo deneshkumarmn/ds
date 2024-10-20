@@ -73,7 +73,7 @@ classification within clusters
 * Create an interactive PowerBI map dashboard reporting companies up-to-date user information
 
 -----
-<img align="left" height="100" width="100" src="http://deneshkumarmn.github.io/ds/images/bhel.jpg" style="padding-right:15px">
+<img align="left" height="100" width="100" src="http://deneshkumarmn.github.io/ds/images/onebit.png" style="padding-right:15px">
 
 **Machine Learning Engineer, [Onebitapp](https://onebitapp.com)** 
 #### India
