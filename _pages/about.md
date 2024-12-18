@@ -7,11 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hey, thanks for visiting my website. I’m Denesh - a recent (2023) graduate from the Pennsylvania State University. Data Enthusiast with two year of experience executing data-driven solution to increase efficiency, accuracy, and utility of internal data processing. Experienced at designing data warehouse, data pipeline and data orchestration using cloud services, and using predictive data modeling to deliver insights and implement action-oriented solution to complex industrial problems.
+Hey, thanks for visiting my website. I’m Denesh - a recent (2023) graduate from the Pennsylvania State University. Data Enthusiast with  experience executing data-driven solution to increase efficiency, accuracy, and utility of internal data processing. Experienced at designing data warehouse, data pipeline and data orchestration using cloud services, and using predictive data modeling to deliver insights and implement action-oriented solution to complex industrial problems.
 
 I hold a Master's degree specializing in Data Science and stay committed to continuous learning, staying updated with the latest trends in data profession. I’m super enthusiastic about learning new technologies and how these can be best used in my job! I often gravitate towards project making me think out of the box and am always up for any new and exciting opportunities coming my way.
 
 Oh, and also, I love playing chess also I love white water kayaking and Ice climbing. I have recently summit mount Algonquin Peak (Second largest peak in east cost). Hit me up if you want to talk sports, adventure, machine learning, data engineering, or anything fun in life! :) 
+
+Contact me at denesh0407@gmail.com
+
 <br> <br>
 # Education
 -----
