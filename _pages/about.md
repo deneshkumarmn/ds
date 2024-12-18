@@ -44,57 +44,40 @@ I completed my Undergraduate Degree in Electronics and Communication Engineering
 -----
 <img align="left" height="100" width="100" src="http://deneshkumarmn.github.io/ds/images/pennstate.png" style="padding-right:15px">
 
-**Data Engineer, [Pennsylvania State University](https://www.psu.edu/)** 
+**Data Sceince Research, [Pennsylvania State University](https://www.psu.edu/)** 
 #### US
 ----- 
-*	Developed a python script to transfer data, REST API’s and extract data from on-premises to AWS S3
-*	Developing complex SQL scripts to transform the source data to fit into a fact dimensional model including implementation
-of star schema, snowflake schema
-*	Leveraged AWS Lambda to develop real-time data integration solutions, securely connecting with financial institution’s APIs
-and extracting transactional data on-the-fly, guaranteeing accurate and up-to-date financial information
-*	Implemented AWS Glue with Spark cluster for scalable ETL processes, ensuring efficient data transformation and cleansing
-*	Experienced in using Spark Data frames, Spark SQL, Spark MLLib for developing, analyzing and designing ML model
-*	Use AWS SageMaker for data normalization, feature engineering and optimize hyperparameter to improve Machine Learning
-model performance
-*	Worked in designing interactive dashboards, reports, performing ad-hoc analysis, and visualizations using PowerBI
-
------
-<img align="left" height="100" width="100" src="http://deneshkumarmn.github.io/ds/images/omdena.jpg" style="padding-right:15px">
-
-**Data Scientist, [Omdena](https://omdena.com/)** 
-#### US (Internship)
------
-*	Stored extensive telematic data from vehicles in Azure Blob Storage, Use Azure Synapse to perform thorough data cleaning
-and transformation
-*	Applied K-means clustering to group data into distinct clusters. Segmented data for more targeted and effective machine
-learning model training
-* Explored various machine learning algorithms for each cluster. Identified XGBoost algorithm as the most effective for
-classification within clusters
-* Create an interactive PowerBI map dashboard reporting companies up-to-date user information
+*	Work with Das Research group with Dr. Saptarshi Das to explore the advantage of Monotonic nature of dendrite application in
+neural networks
+*	Defined dendrite activation function and used it as a pre-filter stage and compare model accuracy and speed to traditional ANN
+*	Achieved target accuracy with fewer layers in the dendritic model, reducing the need for deep architectures
+*	Compared neuron and synapse count, showing significant reductions (up to 57.3%) in dendritic ANNs over traditional models
+*	Developed a multi-class deep learning model to classify different amino acids, use SHAP to interpret model predictions and
+identify key features influencing classification
 
 -----
 <img align="left" height="100" width="100" src="http://deneshkumarmn.github.io/ds/images/onebit.png" style="padding-right:15px">
 
 **Data Scientist, [Onebitapp](https://onebitapp.com)** 
-#### US (Co-Op)
+#### US 
 -----
-*	Participated in all phases of data mining, data cleaning, data collection, developing models, Validation, Visualization, and
-Performed Gap analysis
-* Developed a machine learning system that predicted purchase probability at a particular offer based on customer’s real time
-location data and past purchase behavior
-* Performed feature engineering and exploratory data analysis (EDA) using Python libraries like pandas and NumPy to enhance
-model accuracy and performance
-* Optimized model performance by implementing cross-validation techniques, reducing overfitting, and improving generalization
-to unseen data
+*	Utilized AWS service S3, Glue, and Redshift for data mining, cleaning and validation
+* Performed feature engineering and exploratory data analysis using pandas, NumPy and stored processed data in AWS S3
+* Implemented a machine learning using AWS SageMaker with the XGBoost algorithm to predict the sales and demand of
+products by analyzing historical sales data
+* Developed a clustering model using K-Means algorithm to categorize customers based on their historical purchase behavior
+for promotion of offers and personalized marketing strategies
+*	Enhanced model performance by cross-validation, regularization techniques, and improving generalization by parameter tuning
+*	Created PowerBI dashboards, integrating data from AWS Redshift
 <br>
 
 # Key Skills
 ----
 * <strong> Programming Languages: </strong>  Python, SQL, R, Java <br>
 * <strong> Libraries & Framework: </strong> Scikit-learn, TensorFlow, Pytorch, OpenCV, Keras, Pandas, NumPy <br>
-* <strong> Databases: </strong> MySQL, Oracle, Teradata, MS SQL SERVER <br>
+* <strong> Databases: </strong> MySQL, Oracle, MS SQL SERVER <br>
 * <strong> Machine Learning: </strong> Exploratory Data Analysis, Regression, Classification, Clustering, LLM, Generative AI <br>
-* <strong> Tools: </strong> Google Cloud, Azure Data Factory, Kafka, Spark, Git, AWS CloudFormation <br>
+* <strong> Tools: </strong> AWS, Azure Data Factory, Kafka, Spark, Git, AWS CloudFormation <br>
 * <strong> AWS Tools: </strong> IAM, Lambda, Glue, SageMaker, S3, RedShift, EC2, EMR, Kinesis, Step Functions, CloudWatch <br>
 * <strong> Visualization Tools: </strong>  PowerBI, Tableau, Informatica, Excel (Chart, Filter, PivotTables, VLOOKUP) <br>
 
